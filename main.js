@@ -4403,17 +4403,18 @@ am4core.ready(function () {
     "Alin lämpötila (degC)": -0.7
   }];
 
-  var dataWithDate = chart.data.map(function (e) {
-    var o = Object.assign({}, e);
+  // add date key to chart.data
+  var dataWithDate = chart.data.map(function (el) {
+    var obj = Object.assign({}, el);
     var regEx = /\b\d\b/g;
-    var kkToS = e.Kk.toString();
-    var pvToS = e.Pv.toString();
+    var kkToS = el.Kk.toString();
+    var pvToS = el.Pv.toString();
     if (kkToS.match(regEx) && pvToS.match(regEx)) {
-      o.date = e.Vuosi + "-0" + e.Kk + "-0" + e.Pv;
+      obj.date = el.Vuosi + "-0" + el.Kk + "-0" + el.Pv;
     } else {
-      o.date = e.Vuosi + "-" + e.Kk + "-" + e.Pv;
+      obj.date = el.Vuosi + "-" + el.Kk + "-" + el.Pv;
     }
-    return o;
+    return obj;
   })
 
   console.log(dataWithDate);
