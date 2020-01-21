@@ -16,11 +16,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5.4,
-    "Ylin lämpötila (degC)": 5.8,
-    "Alin lämpötila (degC)": 5.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5.4,
+    "Maximum air temperature (degC)": 5.8,
+    "Minimum air temperature (degC)": 5.1
   },
   {
     "Vuosi": 2018,
@@ -28,11 +28,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 13.6,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5.6,
-    "Ylin lämpötila (degC)": 5.9,
-    "Alin lämpötila (degC)": 5
+    "Rainfall (mm)": 13.6,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5.6,
+    "Maximum air temperature (degC)": 5.9,
+    "Minimum air temperature (degC)": 5
   },
   {
     "Vuosi": 2018,
@@ -40,11 +40,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.6,
-    "Ylin lämpötila (degC)": 8.3,
-    "Alin lämpötila (degC)": 5.4
+    "Rainfall (mm)": 3.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.6,
+    "Maximum air temperature (degC)": 8.3,
+    "Minimum air temperature (degC)": 5.4
   },
   {
     "Vuosi": 2018,
@@ -52,11 +52,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.3,
-    "Ylin lämpötila (degC)": 8.1,
-    "Alin lämpötila (degC)": 4.4
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.3,
+    "Maximum air temperature (degC)": 8.1,
+    "Minimum air temperature (degC)": 4.4
   },
   {
     "Vuosi": 2018,
@@ -64,11 +64,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.9,
-    "Ylin lämpötila (degC)": 9,
-    "Alin lämpötila (degC)": 3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.9,
+    "Maximum air temperature (degC)": 9,
+    "Minimum air temperature (degC)": 3
   },
   {
     "Vuosi": 2018,
@@ -76,11 +76,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.9,
-    "Ylin lämpötila (degC)": 9.7,
-    "Alin lämpötila (degC)": 8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.9,
+    "Maximum air temperature (degC)": 9.7,
+    "Minimum air temperature (degC)": 8
   },
   {
     "Vuosi": 2018,
@@ -88,11 +88,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.8,
-    "Ylin lämpötila (degC)": 9,
-    "Alin lämpötila (degC)": 4.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.8,
+    "Maximum air temperature (degC)": 9,
+    "Minimum air temperature (degC)": 4.7
   },
   {
     "Vuosi": 2018,
@@ -100,11 +100,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.5,
-    "Ylin lämpötila (degC)": 6.6,
-    "Alin lämpötila (degC)": 3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.5,
+    "Maximum air temperature (degC)": 6.6,
+    "Minimum air temperature (degC)": 3
   },
   {
     "Vuosi": 2018,
@@ -112,11 +112,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.4,
-    "Ylin lämpötila (degC)": 3.1,
-    "Alin lämpötila (degC)": -0.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.4,
+    "Maximum air temperature (degC)": 3.1,
+    "Minimum air temperature (degC)": -0.2
   },
   {
     "Vuosi": 2018,
@@ -124,11 +124,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0,
-    "Ylin lämpötila (degC)": 1.6,
-    "Alin lämpötila (degC)": -2.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0,
+    "Maximum air temperature (degC)": 1.6,
+    "Minimum air temperature (degC)": -2.5
   },
   {
     "Vuosi": 2018,
@@ -136,11 +136,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": "",
-    "Ilman lämpötila (degC)": -0.7,
-    "Ylin lämpötila (degC)": 1.9,
-    "Alin lämpötila (degC)": -2.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": "",
+    "Air temperature (degC)": -0.7,
+    "Maximum air temperature (degC)": 1.9,
+    "Minimum air temperature (degC)": -2.6
   },
   {
     "Vuosi": 2018,
@@ -148,11 +148,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -0.5,
-    "Ylin lämpötila (degC)": 1,
-    "Alin lämpötila (degC)": -3.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -0.5,
+    "Maximum air temperature (degC)": 1,
+    "Minimum air temperature (degC)": -3.3
   },
   {
     "Vuosi": 2018,
@@ -160,11 +160,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.5,
-    "Ylin lämpötila (degC)": 2.8,
-    "Alin lämpötila (degC)": -2.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.5,
+    "Maximum air temperature (degC)": 2.8,
+    "Minimum air temperature (degC)": -2.2
   },
   {
     "Vuosi": 2018,
@@ -172,11 +172,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.2,
-    "Ylin lämpötila (degC)": 2.2,
-    "Alin lämpötila (degC)": -2.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.2,
+    "Maximum air temperature (degC)": 2.2,
+    "Minimum air temperature (degC)": -2.2
   },
   {
     "Vuosi": 2018,
@@ -184,11 +184,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -4,
-    "Ylin lämpötila (degC)": -1.8,
-    "Alin lämpötila (degC)": -5.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -4,
+    "Maximum air temperature (degC)": -1.8,
+    "Minimum air temperature (degC)": -5.4
   },
   {
     "Vuosi": 2018,
@@ -196,11 +196,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -2,
-    "Ylin lämpötila (degC)": -0.2,
-    "Alin lämpötila (degC)": -5.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -2,
+    "Maximum air temperature (degC)": -0.2,
+    "Minimum air temperature (degC)": -5.3
   },
   {
     "Vuosi": 2018,
@@ -208,11 +208,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -3.6,
-    "Ylin lämpötila (degC)": -1,
-    "Alin lämpötila (degC)": -4.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -3.6,
+    "Maximum air temperature (degC)": -1,
+    "Minimum air temperature (degC)": -4.6
   },
   {
     "Vuosi": 2018,
@@ -220,11 +220,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -3.2,
-    "Ylin lämpötila (degC)": -0.8,
-    "Alin lämpötila (degC)": -6.1
+    "Rainfall (mm)": 0.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -3.2,
+    "Maximum air temperature (degC)": -0.8,
+    "Minimum air temperature (degC)": -6.1
   },
   {
     "Vuosi": 2018,
@@ -232,11 +232,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.7,
-    "Ylin lämpötila (degC)": 3,
-    "Alin lämpötila (degC)": -1.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.7,
+    "Maximum air temperature (degC)": 3,
+    "Minimum air temperature (degC)": -1.4
   },
   {
     "Vuosi": 2018,
@@ -244,11 +244,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 1.6,
-    "Ylin lämpötila (degC)": 2.3,
-    "Alin lämpötila (degC)": -0.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 1.6,
+    "Maximum air temperature (degC)": 2.3,
+    "Minimum air temperature (degC)": -0.1
   },
   {
     "Vuosi": 2018,
@@ -256,11 +256,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -0.7,
-    "Ylin lämpötila (degC)": 2.3,
-    "Alin lämpötila (degC)": -2.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -0.7,
+    "Maximum air temperature (degC)": 2.3,
+    "Minimum air temperature (degC)": -2.2
   },
   {
     "Vuosi": 2018,
@@ -268,11 +268,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -0.6,
-    "Ylin lämpötila (degC)": 0.2,
-    "Alin lämpötila (degC)": -1.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -0.6,
+    "Maximum air temperature (degC)": 0.2,
+    "Minimum air temperature (degC)": -1.4
   },
   {
     "Vuosi": 2018,
@@ -280,11 +280,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -0.2,
-    "Ylin lämpötila (degC)": 0.5,
-    "Alin lämpötila (degC)": -1.1
+    "Rainfall (mm)": 1.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -0.2,
+    "Maximum air temperature (degC)": 0.5,
+    "Minimum air temperature (degC)": -1.1
   },
   {
     "Vuosi": 2018,
@@ -292,11 +292,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4,
-    "Ylin lämpötila (degC)": 5.7,
-    "Alin lämpötila (degC)": -0.1
+    "Rainfall (mm)": 4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4,
+    "Maximum air temperature (degC)": 5.7,
+    "Minimum air temperature (degC)": -0.1
   },
   {
     "Vuosi": 2018,
@@ -304,11 +304,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.9,
-    "Ylin lämpötila (degC)": 5.8,
-    "Alin lämpötila (degC)": 1.2
+    "Rainfall (mm)": 0.4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.9,
+    "Maximum air temperature (degC)": 5.8,
+    "Minimum air temperature (degC)": 1.2
   },
   {
     "Vuosi": 2018,
@@ -316,11 +316,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.6,
-    "Ylin lämpötila (degC)": 2.6,
-    "Alin lämpötila (degC)": -1.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.6,
+    "Maximum air temperature (degC)": 2.6,
+    "Minimum air temperature (degC)": -1.5
   },
   {
     "Vuosi": 2018,
@@ -328,11 +328,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 1.3,
-    "Ylin lämpötila (degC)": 3.8,
-    "Alin lämpötila (degC)": -2.1
+    "Rainfall (mm)": 3.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 1.3,
+    "Maximum air temperature (degC)": 3.8,
+    "Minimum air temperature (degC)": -2.1
   },
   {
     "Vuosi": 2018,
@@ -340,11 +340,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 16.7,
-    "Lumensyvyys (cm)": 0,
-    "Ilman lämpötila (degC)": 2.4,
-    "Ylin lämpötila (degC)": 3.5,
-    "Alin lämpötila (degC)": 0.1
+    "Rainfall (mm)": 16.7,
+    "Snow depth (cm)": 0,
+    "Air temperature (degC)": 2.4,
+    "Maximum air temperature (degC)": 3.5,
+    "Minimum air temperature (degC)": 0.1
   },
   {
     "Vuosi": 2018,
@@ -352,11 +352,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.5,
-    "Ylin lämpötila (degC)": 5.5,
-    "Alin lämpötila (degC)": 3.6
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.5,
+    "Maximum air temperature (degC)": 5.5,
+    "Minimum air temperature (degC)": 3.6
   },
   {
     "Vuosi": 2018,
@@ -364,11 +364,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.9,
-    "Ylin lämpötila (degC)": 4.2,
-    "Alin lämpötila (degC)": 2.3
+    "Rainfall (mm)": 2.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.9,
+    "Maximum air temperature (degC)": 4.2,
+    "Minimum air temperature (degC)": 2.3
   },
   {
     "Vuosi": 2018,
@@ -376,11 +376,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 1.2,
-    "Ylin lämpötila (degC)": 2.3,
-    "Alin lämpötila (degC)": 0.5
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 1.2,
+    "Maximum air temperature (degC)": 2.3,
+    "Minimum air temperature (degC)": 0.5
   },
   {
     "Vuosi": 2018,
@@ -388,11 +388,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.1,
-    "Ylin lämpötila (degC)": 1.1,
-    "Alin lämpötila (degC)": -0.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.1,
+    "Maximum air temperature (degC)": 1.1,
+    "Minimum air temperature (degC)": -0.8
   },
   {
     "Vuosi": 2018,
@@ -400,11 +400,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -1.3,
-    "Ylin lämpötila (degC)": 0.1,
-    "Alin lämpötila (degC)": -1.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -1.3,
+    "Maximum air temperature (degC)": 0.1,
+    "Minimum air temperature (degC)": -1.5
   },
   {
     "Vuosi": 2018,
@@ -412,11 +412,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -3.7,
-    "Ylin lämpötila (degC)": -1.5,
-    "Alin lämpötila (degC)": -4.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -3.7,
+    "Maximum air temperature (degC)": -1.5,
+    "Minimum air temperature (degC)": -4.2
   },
   {
     "Vuosi": 2018,
@@ -424,11 +424,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -5.1,
-    "Ylin lämpötila (degC)": -4.1,
-    "Alin lämpötila (degC)": -5.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -5.1,
+    "Maximum air temperature (degC)": -4.1,
+    "Minimum air temperature (degC)": -5.6
   },
   {
     "Vuosi": 2018,
@@ -436,11 +436,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -3.5,
-    "Ylin lämpötila (degC)": -0.7,
-    "Alin lämpötila (degC)": -5.7
+    "Rainfall (mm)": 3.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -3.5,
+    "Maximum air temperature (degC)": -0.7,
+    "Minimum air temperature (degC)": -5.7
   },
   {
     "Vuosi": 2018,
@@ -448,11 +448,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.9,
-    "Lumensyvyys (cm)": 2,
-    "Ilman lämpötila (degC)": 0.2,
-    "Ylin lämpötila (degC)": 0.8,
-    "Alin lämpötila (degC)": -0.8
+    "Rainfall (mm)": 1.9,
+    "Snow depth (cm)": 2,
+    "Air temperature (degC)": 0.2,
+    "Maximum air temperature (degC)": 0.8,
+    "Minimum air temperature (degC)": -0.8
   },
   {
     "Vuosi": 2018,
@@ -460,11 +460,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": 5,
-    "Ilman lämpötila (degC)": 1.4,
-    "Ylin lämpötila (degC)": 1.8,
-    "Alin lämpötila (degC)": 0.7
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": 5,
+    "Air temperature (degC)": 1.4,
+    "Maximum air temperature (degC)": 1.8,
+    "Minimum air temperature (degC)": 0.7
   },
   {
     "Vuosi": 2018,
@@ -472,11 +472,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.4,
-    "Lumensyvyys (cm)": 3,
-    "Ilman lämpötila (degC)": 0.8,
-    "Ylin lämpötila (degC)": 2.1,
-    "Alin lämpötila (degC)": 0.2
+    "Rainfall (mm)": 0.4,
+    "Snow depth (cm)": 3,
+    "Air temperature (degC)": 0.8,
+    "Maximum air temperature (degC)": 2.1,
+    "Minimum air temperature (degC)": 0.2
   },
   {
     "Vuosi": 2018,
@@ -484,11 +484,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 3,
-    "Ilman lämpötila (degC)": -2.1,
-    "Ylin lämpötila (degC)": 0.3,
-    "Alin lämpötila (degC)": -3.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 3,
+    "Air temperature (degC)": -2.1,
+    "Maximum air temperature (degC)": 0.3,
+    "Minimum air temperature (degC)": -3.2
   },
   {
     "Vuosi": 2018,
@@ -496,11 +496,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.6,
-    "Lumensyvyys (cm)": 3,
-    "Ilman lämpötila (degC)": -5,
-    "Ylin lämpötila (degC)": -1.5,
-    "Alin lämpötila (degC)": -7.6
+    "Rainfall (mm)": 0.6,
+    "Snow depth (cm)": 3,
+    "Air temperature (degC)": -5,
+    "Maximum air temperature (degC)": -1.5,
+    "Minimum air temperature (degC)": -7.6
   },
   {
     "Vuosi": 2018,
@@ -508,11 +508,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.6,
-    "Lumensyvyys (cm)": 3,
-    "Ilman lämpötila (degC)": -8.1,
-    "Ylin lämpötila (degC)": -7.2,
-    "Alin lämpötila (degC)": -9.8
+    "Rainfall (mm)": 1.6,
+    "Snow depth (cm)": 3,
+    "Air temperature (degC)": -8.1,
+    "Maximum air temperature (degC)": -7.2,
+    "Minimum air temperature (degC)": -9.8
   },
   {
     "Vuosi": 2018,
@@ -520,11 +520,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 6,
-    "Ilman lämpötila (degC)": -8.1,
-    "Ylin lämpötila (degC)": -7.1,
-    "Alin lämpötila (degC)": -8.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 6,
+    "Air temperature (degC)": -8.1,
+    "Maximum air temperature (degC)": -7.1,
+    "Minimum air temperature (degC)": -8.7
   },
   {
     "Vuosi": 2018,
@@ -532,11 +532,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.3,
-    "Lumensyvyys (cm)": 5,
-    "Ilman lämpötila (degC)": -9.6,
-    "Ylin lämpötila (degC)": -8.6,
-    "Alin lämpötila (degC)": -11.9
+    "Rainfall (mm)": 0.3,
+    "Snow depth (cm)": 5,
+    "Air temperature (degC)": -9.6,
+    "Maximum air temperature (degC)": -8.6,
+    "Minimum air temperature (degC)": -11.9
   },
   {
     "Vuosi": 2018,
@@ -544,11 +544,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.6,
-    "Lumensyvyys (cm)": 5,
-    "Ilman lämpötila (degC)": 0.7,
-    "Ylin lämpötila (degC)": 2,
-    "Alin lämpötila (degC)": -10.5
+    "Rainfall (mm)": 0.6,
+    "Snow depth (cm)": 5,
+    "Air temperature (degC)": 0.7,
+    "Maximum air temperature (degC)": 2,
+    "Minimum air temperature (degC)": -10.5
   },
   {
     "Vuosi": 2018,
@@ -556,11 +556,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 3,
-    "Ilman lämpötila (degC)": 1.1,
-    "Ylin lämpötila (degC)": 3.2,
-    "Alin lämpötila (degC)": -0.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 3,
+    "Air temperature (degC)": 1.1,
+    "Maximum air temperature (degC)": 3.2,
+    "Minimum air temperature (degC)": -0.9
   },
   {
     "Vuosi": 2018,
@@ -568,11 +568,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.9,
-    "Lumensyvyys (cm)": 3,
-    "Ilman lämpötila (degC)": 0.2,
-    "Ylin lämpötila (degC)": 2.3,
-    "Alin lämpötila (degC)": -1.3
+    "Rainfall (mm)": 0.9,
+    "Snow depth (cm)": 3,
+    "Air temperature (degC)": 0.2,
+    "Maximum air temperature (degC)": 2.3,
+    "Minimum air temperature (degC)": -1.3
   },
   {
     "Vuosi": 2018,
@@ -580,11 +580,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 2,
-    "Ilman lämpötila (degC)": -0.6,
-    "Ylin lämpötila (degC)": 0.8,
-    "Alin lämpötila (degC)": -1.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 2,
+    "Air temperature (degC)": -0.6,
+    "Maximum air temperature (degC)": 0.8,
+    "Minimum air temperature (degC)": -1.3
   },
   {
     "Vuosi": 2018,
@@ -592,11 +592,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 2,
-    "Ilman lämpötila (degC)": 0.7,
-    "Ylin lämpötila (degC)": 3.2,
-    "Alin lämpötila (degC)": -2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 2,
+    "Air temperature (degC)": 0.7,
+    "Maximum air temperature (degC)": 3.2,
+    "Minimum air temperature (degC)": -2
   },
   {
     "Vuosi": 2018,
@@ -604,11 +604,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 0,
-    "Ilman lämpötila (degC)": 0.2,
-    "Ylin lämpötila (degC)": 1.4,
-    "Alin lämpötila (degC)": -0.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 0,
+    "Air temperature (degC)": 0.2,
+    "Maximum air temperature (degC)": 1.4,
+    "Minimum air temperature (degC)": -0.7
   },
   {
     "Vuosi": 2018,
@@ -616,11 +616,11 @@ am4core.ready(function () {
     "Pv": 31,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.2,
-    "Lumensyvyys (cm)": 2,
-    "Ilman lämpötila (degC)": -0.5,
-    "Ylin lämpötila (degC)": 0.7,
-    "Alin lämpötila (degC)": -1.9
+    "Rainfall (mm)": 3.2,
+    "Snow depth (cm)": 2,
+    "Air temperature (degC)": -0.5,
+    "Maximum air temperature (degC)": 0.7,
+    "Minimum air temperature (degC)": -1.9
   },
   {
     "Vuosi": 2019,
@@ -628,11 +628,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.7,
-    "Ylin lämpötila (degC)": 4.5,
-    "Alin lämpötila (degC)": 0.5
+    "Rainfall (mm)": 1.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.7,
+    "Maximum air temperature (degC)": 4.5,
+    "Minimum air temperature (degC)": 0.5
   },
   {
     "Vuosi": 2019,
@@ -640,11 +640,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -2.9,
-    "Ylin lämpötila (degC)": 2.2,
-    "Alin lämpötila (degC)": -6.1
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -2.9,
+    "Maximum air temperature (degC)": 2.2,
+    "Minimum air temperature (degC)": -6.1
   },
   {
     "Vuosi": 2019,
@@ -652,11 +652,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -9.1,
-    "Ylin lämpötila (degC)": -6.1,
-    "Alin lämpötila (degC)": -11.1
+    "Rainfall (mm)": 1.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -9.1,
+    "Maximum air temperature (degC)": -6.1,
+    "Minimum air temperature (degC)": -11.1
   },
   {
     "Vuosi": 2019,
@@ -664,11 +664,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": 0,
-    "Ilman lämpötila (degC)": -1.2,
-    "Ylin lämpötila (degC)": 1.2,
-    "Alin lämpötila (degC)": -12.1
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": 0,
+    "Air temperature (degC)": -1.2,
+    "Maximum air temperature (degC)": 1.2,
+    "Minimum air temperature (degC)": -12.1
   },
   {
     "Vuosi": 2019,
@@ -676,11 +676,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 2,
-    "Ilman lämpötila (degC)": -4.7,
-    "Ylin lämpötila (degC)": -0.3,
-    "Alin lämpötila (degC)": -5.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 2,
+    "Air temperature (degC)": -4.7,
+    "Maximum air temperature (degC)": -0.3,
+    "Minimum air temperature (degC)": -5.4
   },
   {
     "Vuosi": 2019,
@@ -688,11 +688,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": 2,
-    "Ilman lämpötila (degC)": -3.5,
-    "Ylin lämpötila (degC)": 0.5,
-    "Alin lämpötila (degC)": -7.6
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": 2,
+    "Air temperature (degC)": -3.5,
+    "Maximum air temperature (degC)": 0.5,
+    "Minimum air temperature (degC)": -7.6
   },
   {
     "Vuosi": 2019,
@@ -700,11 +700,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 1.3,
-    "Ylin lämpötila (degC)": 2.6,
-    "Alin lämpötila (degC)": -0.2
+    "Rainfall (mm)": 3.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 1.3,
+    "Maximum air temperature (degC)": 2.6,
+    "Minimum air temperature (degC)": -0.2
   },
   {
     "Vuosi": 2019,
@@ -712,11 +712,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 12.2,
-    "Lumensyvyys (cm)": 0,
-    "Ilman lämpötila (degC)": 0.4,
-    "Ylin lämpötila (degC)": 1.8,
-    "Alin lämpötila (degC)": -0.9
+    "Rainfall (mm)": 12.2,
+    "Snow depth (cm)": 0,
+    "Air temperature (degC)": 0.4,
+    "Maximum air temperature (degC)": 1.8,
+    "Minimum air temperature (degC)": -0.9
   },
   {
     "Vuosi": 2019,
@@ -724,11 +724,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": 14,
-    "Ilman lämpötila (degC)": -1.9,
-    "Ylin lämpötila (degC)": 0,
-    "Alin lämpötila (degC)": -4.1
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": 14,
+    "Air temperature (degC)": -1.9,
+    "Maximum air temperature (degC)": 0,
+    "Minimum air temperature (degC)": -4.1
   },
   {
     "Vuosi": 2019,
@@ -736,11 +736,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": 13,
-    "Ilman lämpötila (degC)": -4.1,
-    "Ylin lämpötila (degC)": -3.1,
-    "Alin lämpötila (degC)": -6.1
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": 13,
+    "Air temperature (degC)": -4.1,
+    "Maximum air temperature (degC)": -3.1,
+    "Minimum air temperature (degC)": -6.1
   },
   {
     "Vuosi": 2019,
@@ -748,11 +748,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 11,
-    "Ilman lämpötila (degC)": 1.4,
-    "Ylin lämpötila (degC)": 2.1,
-    "Alin lämpötila (degC)": -3.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 11,
+    "Air temperature (degC)": 1.4,
+    "Maximum air temperature (degC)": 2.1,
+    "Minimum air temperature (degC)": -3.8
   },
   {
     "Vuosi": 2019,
@@ -760,11 +760,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 8,
-    "Ilman lämpötila (degC)": -1.3,
-    "Ylin lämpötila (degC)": 2,
-    "Alin lämpötila (degC)": -3.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 8,
+    "Air temperature (degC)": -1.3,
+    "Maximum air temperature (degC)": 2,
+    "Minimum air temperature (degC)": -3.6
   },
   {
     "Vuosi": 2019,
@@ -772,11 +772,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 5.5,
-    "Lumensyvyys (cm)": 8,
-    "Ilman lämpötila (degC)": -2.2,
-    "Ylin lämpötila (degC)": 1.1,
-    "Alin lämpötila (degC)": -6.3
+    "Rainfall (mm)": 5.5,
+    "Snow depth (cm)": 8,
+    "Air temperature (degC)": -2.2,
+    "Maximum air temperature (degC)": 1.1,
+    "Minimum air temperature (degC)": -6.3
   },
   {
     "Vuosi": 2019,
@@ -784,11 +784,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.1,
-    "Lumensyvyys (cm)": 11,
-    "Ilman lämpötila (degC)": -2,
-    "Ylin lämpötila (degC)": 0.7,
-    "Alin lämpötila (degC)": -4.8
+    "Rainfall (mm)": 1.1,
+    "Snow depth (cm)": 11,
+    "Air temperature (degC)": -2,
+    "Maximum air temperature (degC)": 0.7,
+    "Minimum air temperature (degC)": -4.8
   },
   {
     "Vuosi": 2019,
@@ -796,11 +796,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.6,
-    "Lumensyvyys (cm)": 12,
-    "Ilman lämpötila (degC)": -6.1,
-    "Ylin lämpötila (degC)": -4.4,
-    "Alin lämpötila (degC)": -9.6
+    "Rainfall (mm)": 0.6,
+    "Snow depth (cm)": 12,
+    "Air temperature (degC)": -6.1,
+    "Maximum air temperature (degC)": -4.4,
+    "Minimum air temperature (degC)": -9.6
   },
   {
     "Vuosi": 2019,
@@ -808,11 +808,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 11.2,
-    "Lumensyvyys (cm)": 14,
-    "Ilman lämpötila (degC)": -5.3,
-    "Ylin lämpötila (degC)": -3.4,
-    "Alin lämpötila (degC)": -8.7
+    "Rainfall (mm)": 11.2,
+    "Snow depth (cm)": 14,
+    "Air temperature (degC)": -5.3,
+    "Maximum air temperature (degC)": -3.4,
+    "Minimum air temperature (degC)": -8.7
   },
   {
     "Vuosi": 2019,
@@ -820,11 +820,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": 24,
-    "Ilman lämpötila (degC)": -4.5,
-    "Ylin lämpötila (degC)": -1.2,
-    "Alin lämpötila (degC)": -7.5
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": 24,
+    "Air temperature (degC)": -4.5,
+    "Maximum air temperature (degC)": -1.2,
+    "Minimum air temperature (degC)": -7.5
   },
   {
     "Vuosi": 2019,
@@ -832,11 +832,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 23,
-    "Ilman lämpötila (degC)": -9.2,
-    "Ylin lämpötila (degC)": -6.1,
-    "Alin lämpötila (degC)": -11.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 23,
+    "Air temperature (degC)": -9.2,
+    "Maximum air temperature (degC)": -6.1,
+    "Minimum air temperature (degC)": -11.4
   },
   {
     "Vuosi": 2019,
@@ -844,11 +844,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.2,
-    "Lumensyvyys (cm)": 22,
-    "Ilman lämpötila (degC)": -5.2,
-    "Ylin lämpötila (degC)": 0.6,
-    "Alin lämpötila (degC)": -13
+    "Rainfall (mm)": 2.2,
+    "Snow depth (cm)": 22,
+    "Air temperature (degC)": -5.2,
+    "Maximum air temperature (degC)": 0.6,
+    "Minimum air temperature (degC)": -13
   },
   {
     "Vuosi": 2019,
@@ -856,11 +856,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 23,
-    "Ilman lämpötila (degC)": -7.9,
-    "Ylin lämpötila (degC)": -0.4,
-    "Alin lämpötila (degC)": -11.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 23,
+    "Air temperature (degC)": -7.9,
+    "Maximum air temperature (degC)": -0.4,
+    "Minimum air temperature (degC)": -11.7
   },
   {
     "Vuosi": 2019,
@@ -868,11 +868,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 21,
-    "Ilman lämpötila (degC)": -15.1,
-    "Ylin lämpötila (degC)": -11.4,
-    "Alin lämpötila (degC)": -17.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 21,
+    "Air temperature (degC)": -15.1,
+    "Maximum air temperature (degC)": -11.4,
+    "Minimum air temperature (degC)": -17.3
   },
   {
     "Vuosi": 2019,
@@ -880,11 +880,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.3,
-    "Lumensyvyys (cm)": 21,
-    "Ilman lämpötila (degC)": -13.8,
-    "Ylin lämpötila (degC)": -5.3,
-    "Alin lämpötila (degC)": -20.3
+    "Rainfall (mm)": 0.3,
+    "Snow depth (cm)": 21,
+    "Air temperature (degC)": -13.8,
+    "Maximum air temperature (degC)": -5.3,
+    "Minimum air temperature (degC)": -20.3
   },
   {
     "Vuosi": 2019,
@@ -892,11 +892,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.8,
-    "Lumensyvyys (cm)": 21,
-    "Ilman lämpötila (degC)": -1.7,
-    "Ylin lämpötila (degC)": 0.1,
-    "Alin lämpötila (degC)": -5.6
+    "Rainfall (mm)": 1.8,
+    "Snow depth (cm)": 21,
+    "Air temperature (degC)": -1.7,
+    "Maximum air temperature (degC)": 0.1,
+    "Minimum air temperature (degC)": -5.6
   },
   {
     "Vuosi": 2019,
@@ -904,11 +904,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 22,
-    "Ilman lämpötila (degC)": -7.8,
-    "Ylin lämpötila (degC)": -1.2,
-    "Alin lämpötila (degC)": -10.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 22,
+    "Air temperature (degC)": -7.8,
+    "Maximum air temperature (degC)": -1.2,
+    "Minimum air temperature (degC)": -10.7
   },
   {
     "Vuosi": 2019,
@@ -916,11 +916,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.1,
-    "Lumensyvyys (cm)": 21,
-    "Ilman lämpötila (degC)": -3.6,
-    "Ylin lämpötila (degC)": -2.1,
-    "Alin lämpötila (degC)": -10.1
+    "Rainfall (mm)": 2.1,
+    "Snow depth (cm)": 21,
+    "Air temperature (degC)": -3.6,
+    "Maximum air temperature (degC)": -2.1,
+    "Minimum air temperature (degC)": -10.1
   },
   {
     "Vuosi": 2019,
@@ -928,11 +928,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.5,
-    "Lumensyvyys (cm)": 23,
-    "Ilman lämpötila (degC)": -8.2,
-    "Ylin lämpötila (degC)": -4.7,
-    "Alin lämpötila (degC)": -9.9
+    "Rainfall (mm)": 2.5,
+    "Snow depth (cm)": 23,
+    "Air temperature (degC)": -8.2,
+    "Maximum air temperature (degC)": -4.7,
+    "Minimum air temperature (degC)": -9.9
   },
   {
     "Vuosi": 2019,
@@ -940,11 +940,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 29,
-    "Ilman lämpötila (degC)": -13.8,
-    "Ylin lämpötila (degC)": -9.8,
-    "Alin lämpötila (degC)": -16
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 29,
+    "Air temperature (degC)": -13.8,
+    "Maximum air temperature (degC)": -9.8,
+    "Minimum air temperature (degC)": -16
   },
   {
     "Vuosi": 2019,
@@ -952,11 +952,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 12.3,
-    "Lumensyvyys (cm)": 27,
-    "Ilman lämpötila (degC)": -7.3,
-    "Ylin lämpötila (degC)": -5.1,
-    "Alin lämpötila (degC)": -15.9
+    "Rainfall (mm)": 12.3,
+    "Snow depth (cm)": 27,
+    "Air temperature (degC)": -7.3,
+    "Maximum air temperature (degC)": -5.1,
+    "Minimum air temperature (degC)": -15.9
   },
   {
     "Vuosi": 2019,
@@ -964,11 +964,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8.6,
-    "Lumensyvyys (cm)": 36,
-    "Ilman lämpötila (degC)": -4.5,
-    "Ylin lämpötila (degC)": -3.8,
-    "Alin lämpötila (degC)": -5.6
+    "Rainfall (mm)": 8.6,
+    "Snow depth (cm)": 36,
+    "Air temperature (degC)": -4.5,
+    "Maximum air temperature (degC)": -3.8,
+    "Minimum air temperature (degC)": -5.6
   },
   {
     "Vuosi": 2019,
@@ -976,11 +976,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.2,
-    "Lumensyvyys (cm)": 42,
-    "Ilman lämpötila (degC)": -0.8,
-    "Ylin lämpötila (degC)": 0.8,
-    "Alin lämpötila (degC)": -4.7
+    "Rainfall (mm)": 1.2,
+    "Snow depth (cm)": 42,
+    "Air temperature (degC)": -0.8,
+    "Maximum air temperature (degC)": 0.8,
+    "Minimum air temperature (degC)": -4.7
   },
   {
     "Vuosi": 2019,
@@ -988,11 +988,11 @@ am4core.ready(function () {
     "Pv": 31,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 40,
-    "Ilman lämpötila (degC)": -0.8,
-    "Ylin lämpötila (degC)": 0.7,
-    "Alin lämpötila (degC)": -3.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 40,
+    "Air temperature (degC)": -0.8,
+    "Maximum air temperature (degC)": 0.7,
+    "Minimum air temperature (degC)": -3.4
   },
   {
     "Vuosi": 2019,
@@ -1000,11 +1000,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": 39,
-    "Ilman lämpötila (degC)": -3.6,
-    "Ylin lämpötila (degC)": -1.3,
-    "Alin lämpötila (degC)": -5.8
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": 39,
+    "Air temperature (degC)": -3.6,
+    "Maximum air temperature (degC)": -1.3,
+    "Minimum air temperature (degC)": -5.8
   },
   {
     "Vuosi": 2019,
@@ -1012,11 +1012,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8.1,
-    "Lumensyvyys (cm)": 37,
-    "Ilman lämpötila (degC)": -2.6,
-    "Ylin lämpötila (degC)": -1.9,
-    "Alin lämpötila (degC)": -4.4
+    "Rainfall (mm)": 8.1,
+    "Snow depth (cm)": 37,
+    "Air temperature (degC)": -2.6,
+    "Maximum air temperature (degC)": -1.9,
+    "Minimum air temperature (degC)": -4.4
   },
   {
     "Vuosi": 2019,
@@ -1024,11 +1024,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 5.7,
-    "Lumensyvyys (cm)": 42,
-    "Ilman lämpötila (degC)": -0.6,
-    "Ylin lämpötila (degC)": 2,
-    "Alin lämpötila (degC)": -3.3
+    "Rainfall (mm)": 5.7,
+    "Snow depth (cm)": 42,
+    "Air temperature (degC)": -0.6,
+    "Maximum air temperature (degC)": 2,
+    "Minimum air temperature (degC)": -3.3
   },
   {
     "Vuosi": 2019,
@@ -1036,11 +1036,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.6,
-    "Lumensyvyys (cm)": 39,
-    "Ilman lämpötila (degC)": -3.5,
-    "Ylin lämpötila (degC)": 1.2,
-    "Alin lämpötila (degC)": -5.8
+    "Rainfall (mm)": 1.6,
+    "Snow depth (cm)": 39,
+    "Air temperature (degC)": -3.5,
+    "Maximum air temperature (degC)": 1.2,
+    "Minimum air temperature (degC)": -5.8
   },
   {
     "Vuosi": 2019,
@@ -1048,11 +1048,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 5.2,
-    "Lumensyvyys (cm)": 39,
-    "Ilman lämpötila (degC)": 0,
-    "Ylin lämpötila (degC)": 1.2,
-    "Alin lämpötila (degC)": -5.7
+    "Rainfall (mm)": 5.2,
+    "Snow depth (cm)": 39,
+    "Air temperature (degC)": 0,
+    "Maximum air temperature (degC)": 1.2,
+    "Minimum air temperature (degC)": -5.7
   },
   {
     "Vuosi": 2019,
@@ -1060,11 +1060,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.2,
-    "Lumensyvyys (cm)": 44,
-    "Ilman lämpötila (degC)": -3.7,
-    "Ylin lämpötila (degC)": -0.2,
-    "Alin lämpötila (degC)": -7.8
+    "Rainfall (mm)": 2.2,
+    "Snow depth (cm)": 44,
+    "Air temperature (degC)": -3.7,
+    "Maximum air temperature (degC)": -0.2,
+    "Minimum air temperature (degC)": -7.8
   },
   {
     "Vuosi": 2019,
@@ -1072,11 +1072,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.1,
-    "Lumensyvyys (cm)": 46,
-    "Ilman lämpötila (degC)": 0.1,
-    "Ylin lämpötila (degC)": 1.7,
-    "Alin lämpötila (degC)": -6
+    "Rainfall (mm)": 1.1,
+    "Snow depth (cm)": 46,
+    "Air temperature (degC)": 0.1,
+    "Maximum air temperature (degC)": 1.7,
+    "Minimum air temperature (degC)": -6
   },
   {
     "Vuosi": 2019,
@@ -1084,11 +1084,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": 43,
-    "Ilman lämpötila (degC)": 1.5,
-    "Ylin lämpötila (degC)": 2.4,
-    "Alin lämpötila (degC)": 0.7
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": 43,
+    "Air temperature (degC)": 1.5,
+    "Maximum air temperature (degC)": 2.4,
+    "Minimum air temperature (degC)": 0.7
   },
   {
     "Vuosi": 2019,
@@ -1096,11 +1096,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 5.9,
-    "Lumensyvyys (cm)": 34,
-    "Ilman lämpötila (degC)": 2,
-    "Ylin lämpötila (degC)": 2.7,
-    "Alin lämpötila (degC)": 1.6
+    "Rainfall (mm)": 5.9,
+    "Snow depth (cm)": 34,
+    "Air temperature (degC)": 2,
+    "Maximum air temperature (degC)": 2.7,
+    "Minimum air temperature (degC)": 1.6
   },
   {
     "Vuosi": 2019,
@@ -1108,11 +1108,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.5,
-    "Lumensyvyys (cm)": 31,
-    "Ilman lämpötila (degC)": 2.2,
-    "Ylin lämpötila (degC)": 3.1,
-    "Alin lämpötila (degC)": 0.5
+    "Rainfall (mm)": 2.5,
+    "Snow depth (cm)": 31,
+    "Air temperature (degC)": 2.2,
+    "Maximum air temperature (degC)": 3.1,
+    "Minimum air temperature (degC)": 0.5
   },
   {
     "Vuosi": 2019,
@@ -1120,11 +1120,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 7.3,
-    "Lumensyvyys (cm)": 28,
-    "Ilman lämpötila (degC)": 1.3,
-    "Ylin lämpötila (degC)": 2.8,
-    "Alin lämpötila (degC)": 0.4
+    "Rainfall (mm)": 7.3,
+    "Snow depth (cm)": 28,
+    "Air temperature (degC)": 1.3,
+    "Maximum air temperature (degC)": 2.8,
+    "Minimum air temperature (degC)": 0.4
   },
   {
     "Vuosi": 2019,
@@ -1132,11 +1132,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 27,
-    "Ilman lämpötila (degC)": -1.1,
-    "Ylin lämpötila (degC)": 0.7,
-    "Alin lämpötila (degC)": -2.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 27,
+    "Air temperature (degC)": -1.1,
+    "Maximum air temperature (degC)": 0.7,
+    "Minimum air temperature (degC)": -2.3
   },
   {
     "Vuosi": 2019,
@@ -1144,11 +1144,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.9,
-    "Lumensyvyys (cm)": 27,
-    "Ilman lämpötila (degC)": -0.1,
-    "Ylin lämpötila (degC)": 1.1,
-    "Alin lämpötila (degC)": -3.7
+    "Rainfall (mm)": 1.9,
+    "Snow depth (cm)": 27,
+    "Air temperature (degC)": -0.1,
+    "Maximum air temperature (degC)": 1.1,
+    "Minimum air temperature (degC)": -3.7
   },
   {
     "Vuosi": 2019,
@@ -1156,11 +1156,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 28,
-    "Ilman lämpötila (degC)": 2.3,
-    "Ylin lämpötila (degC)": 2.9,
-    "Alin lämpötila (degC)": 0.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 28,
+    "Air temperature (degC)": 2.3,
+    "Maximum air temperature (degC)": 2.9,
+    "Minimum air temperature (degC)": 0.7
   },
   {
     "Vuosi": 2019,
@@ -1168,11 +1168,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 26,
-    "Ilman lämpötila (degC)": 5,
-    "Ylin lämpötila (degC)": 7.7,
-    "Alin lämpötila (degC)": 1.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 26,
+    "Air temperature (degC)": 5,
+    "Maximum air temperature (degC)": 7.7,
+    "Minimum air temperature (degC)": 1.9
   },
   {
     "Vuosi": 2019,
@@ -1180,11 +1180,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 25,
-    "Ilman lämpötila (degC)": 3,
-    "Ylin lämpötila (degC)": 6.9,
-    "Alin lämpötila (degC)": 0.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 25,
+    "Air temperature (degC)": 3,
+    "Maximum air temperature (degC)": 6.9,
+    "Minimum air temperature (degC)": 0.9
   },
   {
     "Vuosi": 2019,
@@ -1192,11 +1192,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 22,
-    "Ilman lämpötila (degC)": 1.2,
-    "Ylin lämpötila (degC)": 4,
-    "Alin lämpötila (degC)": -0.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 22,
+    "Air temperature (degC)": 1.2,
+    "Maximum air temperature (degC)": 4,
+    "Minimum air temperature (degC)": -0.9
   },
   {
     "Vuosi": 2019,
@@ -1204,11 +1204,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 22,
-    "Ilman lämpötila (degC)": 0.7,
-    "Ylin lämpötila (degC)": 2.5,
-    "Alin lämpötila (degC)": -2.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 22,
+    "Air temperature (degC)": 0.7,
+    "Maximum air temperature (degC)": 2.5,
+    "Minimum air temperature (degC)": -2.7
   },
   {
     "Vuosi": 2019,
@@ -1216,11 +1216,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.7,
-    "Lumensyvyys (cm)": 19,
-    "Ilman lämpötila (degC)": 2.1,
-    "Ylin lämpötila (degC)": 2.2,
-    "Alin lämpötila (degC)": 1.6
+    "Rainfall (mm)": 3.7,
+    "Snow depth (cm)": 19,
+    "Air temperature (degC)": 2.1,
+    "Maximum air temperature (degC)": 2.2,
+    "Minimum air temperature (degC)": 1.6
   },
   {
     "Vuosi": 2019,
@@ -1228,11 +1228,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": 17,
-    "Ilman lämpötila (degC)": -0.6,
-    "Ylin lämpötila (degC)": 2.8,
-    "Alin lämpötila (degC)": -3.8
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": 17,
+    "Air temperature (degC)": -0.6,
+    "Maximum air temperature (degC)": 2.8,
+    "Minimum air temperature (degC)": -3.8
   },
   {
     "Vuosi": 2019,
@@ -1240,11 +1240,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 16,
-    "Ilman lämpötila (degC)": -6.4,
-    "Ylin lämpötila (degC)": -3.8,
-    "Alin lämpötila (degC)": -8.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 16,
+    "Air temperature (degC)": -6.4,
+    "Maximum air temperature (degC)": -3.8,
+    "Minimum air temperature (degC)": -8.3
   },
   {
     "Vuosi": 2019,
@@ -1252,11 +1252,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.6,
-    "Lumensyvyys (cm)": 16,
-    "Ilman lämpötila (degC)": -6.2,
-    "Ylin lämpötila (degC)": -2.2,
-    "Alin lämpötila (degC)": -10.8
+    "Rainfall (mm)": 1.6,
+    "Snow depth (cm)": 16,
+    "Air temperature (degC)": -6.2,
+    "Maximum air temperature (degC)": -2.2,
+    "Minimum air temperature (degC)": -10.8
   },
   {
     "Vuosi": 2019,
@@ -1264,11 +1264,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 16,
-    "Ilman lämpötila (degC)": 1.8,
-    "Ylin lämpötila (degC)": 5.2,
-    "Alin lämpötila (degC)": -4.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 16,
+    "Air temperature (degC)": 1.8,
+    "Maximum air temperature (degC)": 5.2,
+    "Minimum air temperature (degC)": -4.5
   },
   {
     "Vuosi": 2019,
@@ -1276,11 +1276,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 16,
-    "Ilman lämpötila (degC)": 2.7,
-    "Ylin lämpötila (degC)": 4.5,
-    "Alin lämpötila (degC)": 0.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 16,
+    "Air temperature (degC)": 2.7,
+    "Maximum air temperature (degC)": 4.5,
+    "Minimum air temperature (degC)": 0.9
   },
   {
     "Vuosi": 2019,
@@ -1288,11 +1288,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.9,
-    "Lumensyvyys (cm)": 14,
-    "Ilman lämpötila (degC)": 5.2,
-    "Ylin lämpötila (degC)": 7.8,
-    "Alin lämpötila (degC)": 4.2
+    "Rainfall (mm)": 0.9,
+    "Snow depth (cm)": 14,
+    "Air temperature (degC)": 5.2,
+    "Maximum air temperature (degC)": 7.8,
+    "Minimum air temperature (degC)": 4.2
   },
   {
     "Vuosi": 2019,
@@ -1300,11 +1300,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 13,
-    "Ilman lämpötila (degC)": 2.1,
-    "Ylin lämpötila (degC)": 4.8,
-    "Alin lämpötila (degC)": 1.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 13,
+    "Air temperature (degC)": 2.1,
+    "Maximum air temperature (degC)": 4.8,
+    "Minimum air temperature (degC)": 1.1
   },
   {
     "Vuosi": 2019,
@@ -1312,11 +1312,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 12,
-    "Ilman lämpötila (degC)": 3.5,
-    "Ylin lämpötila (degC)": 5.7,
-    "Alin lämpötila (degC)": -0.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 12,
+    "Air temperature (degC)": 3.5,
+    "Maximum air temperature (degC)": 5.7,
+    "Minimum air temperature (degC)": -0.5
   },
   {
     "Vuosi": 2019,
@@ -1324,11 +1324,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": 11,
-    "Ilman lämpötila (degC)": 2,
-    "Ylin lämpötila (degC)": 5.1,
-    "Alin lämpötila (degC)": -1.2
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": 11,
+    "Air temperature (degC)": 2,
+    "Maximum air temperature (degC)": 5.1,
+    "Minimum air temperature (degC)": -1.2
   },
   {
     "Vuosi": 2019,
@@ -1336,11 +1336,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 10,
-    "Ilman lämpötila (degC)": -4.9,
-    "Ylin lämpötila (degC)": -1.1,
-    "Alin lämpötila (degC)": -7.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 10,
+    "Air temperature (degC)": -4.9,
+    "Maximum air temperature (degC)": -1.1,
+    "Minimum air temperature (degC)": -7.6
   },
   {
     "Vuosi": 2019,
@@ -1348,11 +1348,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 10,
-    "Ilman lämpötila (degC)": 0.5,
-    "Ylin lämpötila (degC)": 3.1,
-    "Alin lämpötila (degC)": -5.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 10,
+    "Air temperature (degC)": 0.5,
+    "Maximum air temperature (degC)": 3.1,
+    "Minimum air temperature (degC)": -5.2
   },
   {
     "Vuosi": 2019,
@@ -1360,11 +1360,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 10,
-    "Ilman lämpötila (degC)": -4.9,
-    "Ylin lämpötila (degC)": 1.5,
-    "Alin lämpötila (degC)": -7.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 10,
+    "Air temperature (degC)": -4.9,
+    "Maximum air temperature (degC)": 1.5,
+    "Minimum air temperature (degC)": -7.9
   },
   {
     "Vuosi": 2019,
@@ -1372,11 +1372,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.8,
-    "Lumensyvyys (cm)": 9,
-    "Ilman lämpötila (degC)": -2.7,
-    "Ylin lämpötila (degC)": -1.3,
-    "Alin lämpötila (degC)": -4.9
+    "Rainfall (mm)": 3.8,
+    "Snow depth (cm)": 9,
+    "Air temperature (degC)": -2.7,
+    "Maximum air temperature (degC)": -1.3,
+    "Minimum air temperature (degC)": -4.9
   },
   {
     "Vuosi": 2019,
@@ -1384,11 +1384,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 14,
-    "Ilman lämpötila (degC)": -4.6,
-    "Ylin lämpötila (degC)": -1.3,
-    "Alin lämpötila (degC)": -7.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 14,
+    "Air temperature (degC)": -4.6,
+    "Maximum air temperature (degC)": -1.3,
+    "Minimum air temperature (degC)": -7.4
   },
   {
     "Vuosi": 2019,
@@ -1396,11 +1396,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": 13,
-    "Ilman lämpötila (degC)": -6.9,
-    "Ylin lämpötila (degC)": -2.7,
-    "Alin lämpötila (degC)": -14.3
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": 13,
+    "Air temperature (degC)": -6.9,
+    "Maximum air temperature (degC)": -2.7,
+    "Minimum air temperature (degC)": -14.3
   },
   {
     "Vuosi": 2019,
@@ -1408,11 +1408,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8.7,
-    "Lumensyvyys (cm)": 12,
-    "Ilman lämpötila (degC)": 0.2,
-    "Ylin lämpötila (degC)": 0.7,
-    "Alin lämpötila (degC)": -2.8
+    "Rainfall (mm)": 8.7,
+    "Snow depth (cm)": 12,
+    "Air temperature (degC)": 0.2,
+    "Maximum air temperature (degC)": 0.7,
+    "Minimum air temperature (degC)": -2.8
   },
   {
     "Vuosi": 2019,
@@ -1420,11 +1420,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 5.1,
-    "Lumensyvyys (cm)": 13,
-    "Ilman lämpötila (degC)": 3,
-    "Ylin lämpötila (degC)": 4.7,
-    "Alin lämpötila (degC)": 0.6
+    "Rainfall (mm)": 5.1,
+    "Snow depth (cm)": 13,
+    "Air temperature (degC)": 3,
+    "Maximum air temperature (degC)": 4.7,
+    "Minimum air temperature (degC)": 0.6
   },
   {
     "Vuosi": 2019,
@@ -1432,11 +1432,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.7,
-    "Lumensyvyys (cm)": 9,
-    "Ilman lämpötila (degC)": 0.4,
-    "Ylin lämpötila (degC)": 3.3,
-    "Alin lämpötila (degC)": -1.9
+    "Rainfall (mm)": 3.7,
+    "Snow depth (cm)": 9,
+    "Air temperature (degC)": 0.4,
+    "Maximum air temperature (degC)": 3.3,
+    "Minimum air temperature (degC)": -1.9
   },
   {
     "Vuosi": 2019,
@@ -1444,11 +1444,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 10,
-    "Ilman lämpötila (degC)": -0.8,
-    "Ylin lämpötila (degC)": 2.1,
-    "Alin lämpötila (degC)": -2.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 10,
+    "Air temperature (degC)": -0.8,
+    "Maximum air temperature (degC)": 2.1,
+    "Minimum air temperature (degC)": -2.2
   },
   {
     "Vuosi": 2019,
@@ -1456,11 +1456,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": 10,
-    "Ilman lämpötila (degC)": -4.9,
-    "Ylin lämpötila (degC)": -2.2,
-    "Alin lämpötila (degC)": -6.7
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": 10,
+    "Air temperature (degC)": -4.9,
+    "Maximum air temperature (degC)": -2.2,
+    "Minimum air temperature (degC)": -6.7
   },
   {
     "Vuosi": 2019,
@@ -1468,11 +1468,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": 10,
-    "Ilman lämpötila (degC)": -4.8,
-    "Ylin lämpötila (degC)": -1.3,
-    "Alin lämpötila (degC)": -8.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": 10,
+    "Air temperature (degC)": -4.8,
+    "Maximum air temperature (degC)": -1.3,
+    "Minimum air temperature (degC)": -8.6
   },
   {
     "Vuosi": 2019,
@@ -1480,11 +1480,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 4.2,
-    "Lumensyvyys (cm)": 10,
-    "Ilman lämpötila (degC)": -3.3,
-    "Ylin lämpötila (degC)": -0.1,
-    "Alin lämpötila (degC)": -9.1
+    "Rainfall (mm)": 4.2,
+    "Snow depth (cm)": 10,
+    "Air temperature (degC)": -3.3,
+    "Maximum air temperature (degC)": -0.1,
+    "Minimum air temperature (degC)": -9.1
   },
   {
     "Vuosi": 2019,
@@ -1492,11 +1492,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.4,
-    "Lumensyvyys (cm)": 14,
-    "Ilman lämpötila (degC)": 1.4,
-    "Ylin lämpötila (degC)": 2.6,
-    "Alin lämpötila (degC)": -1.1
+    "Rainfall (mm)": 0.4,
+    "Snow depth (cm)": 14,
+    "Air temperature (degC)": 1.4,
+    "Maximum air temperature (degC)": 2.6,
+    "Minimum air temperature (degC)": -1.1
   },
   {
     "Vuosi": 2019,
@@ -1504,11 +1504,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.7,
-    "Lumensyvyys (cm)": 10,
-    "Ilman lämpötila (degC)": 2.1,
-    "Ylin lämpötila (degC)": 2.5,
-    "Alin lämpötila (degC)": 1.5
+    "Rainfall (mm)": 3.7,
+    "Snow depth (cm)": 10,
+    "Air temperature (degC)": 2.1,
+    "Maximum air temperature (degC)": 2.5,
+    "Minimum air temperature (degC)": 1.5
   },
   {
     "Vuosi": 2019,
@@ -1516,11 +1516,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.7,
-    "Lumensyvyys (cm)": 8,
-    "Ilman lämpötila (degC)": 1.8,
-    "Ylin lämpötila (degC)": 3.1,
-    "Alin lämpötila (degC)": 1.1
+    "Rainfall (mm)": 1.7,
+    "Snow depth (cm)": 8,
+    "Air temperature (degC)": 1.8,
+    "Maximum air temperature (degC)": 3.1,
+    "Minimum air temperature (degC)": 1.1
   },
   {
     "Vuosi": 2019,
@@ -1528,11 +1528,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8.1,
-    "Lumensyvyys (cm)": 7,
-    "Ilman lämpötila (degC)": 1.7,
-    "Ylin lämpötila (degC)": 2.5,
-    "Alin lämpötila (degC)": 0.6
+    "Rainfall (mm)": 8.1,
+    "Snow depth (cm)": 7,
+    "Air temperature (degC)": 1.7,
+    "Maximum air temperature (degC)": 2.5,
+    "Minimum air temperature (degC)": 0.6
   },
   {
     "Vuosi": 2019,
@@ -1540,11 +1540,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1,
-    "Lumensyvyys (cm)": 5,
-    "Ilman lämpötila (degC)": 3.3,
-    "Ylin lämpötila (degC)": 4.1,
-    "Alin lämpötila (degC)": 1.7
+    "Rainfall (mm)": 1,
+    "Snow depth (cm)": 5,
+    "Air temperature (degC)": 3.3,
+    "Maximum air temperature (degC)": 4.1,
+    "Minimum air temperature (degC)": 1.7
   },
   {
     "Vuosi": 2019,
@@ -1552,11 +1552,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": 2,
-    "Ilman lämpötila (degC)": 2.6,
-    "Ylin lämpötila (degC)": 4.9,
-    "Alin lämpötila (degC)": 2
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": 2,
+    "Air temperature (degC)": 2.6,
+    "Maximum air temperature (degC)": 4.9,
+    "Minimum air temperature (degC)": 2
   },
   {
     "Vuosi": 2019,
@@ -1564,11 +1564,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 1.3,
-    "Ylin lämpötila (degC)": 3.3,
-    "Alin lämpötila (degC)": -0.4
+    "Rainfall (mm)": 0.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 1.3,
+    "Maximum air temperature (degC)": 3.3,
+    "Minimum air temperature (degC)": -0.4
   },
   {
     "Vuosi": 2019,
@@ -1576,11 +1576,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.9,
-    "Ylin lämpötila (degC)": 5.3,
-    "Alin lämpötila (degC)": 0.9
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.9,
+    "Maximum air temperature (degC)": 5.3,
+    "Minimum air temperature (degC)": 0.9
   },
   {
     "Vuosi": 2019,
@@ -1588,11 +1588,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 3.9,
-    "Ylin lämpötila (degC)": 7.4,
-    "Alin lämpötila (degC)": 1.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 3.9,
+    "Maximum air temperature (degC)": 7.4,
+    "Minimum air temperature (degC)": 1.2
   },
   {
     "Vuosi": 2019,
@@ -1600,11 +1600,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.3,
-    "Ylin lämpötila (degC)": 3.6,
-    "Alin lämpötila (degC)": 1.2
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.3,
+    "Maximum air temperature (degC)": 3.6,
+    "Minimum air temperature (degC)": 1.2
   },
   {
     "Vuosi": 2019,
@@ -1612,11 +1612,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4,
-    "Ylin lämpötila (degC)": 6.8,
-    "Alin lämpötila (degC)": 1.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4,
+    "Maximum air temperature (degC)": 6.8,
+    "Minimum air temperature (degC)": 1.5
   },
   {
     "Vuosi": 2019,
@@ -1624,11 +1624,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 1.5,
-    "Ylin lämpötila (degC)": 5.3,
-    "Alin lämpötila (degC)": -0.7
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 1.5,
+    "Maximum air temperature (degC)": 5.3,
+    "Minimum air temperature (degC)": -0.7
   },
   {
     "Vuosi": 2019,
@@ -1636,11 +1636,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.3,
-    "Ylin lämpötila (degC)": 3.5,
-    "Alin lämpötila (degC)": -2.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.3,
+    "Maximum air temperature (degC)": 3.5,
+    "Minimum air temperature (degC)": -2.9
   },
   {
     "Vuosi": 2019,
@@ -1648,11 +1648,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.2,
-    "Ylin lämpötila (degC)": 3.1,
-    "Alin lämpötila (degC)": -4.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.2,
+    "Maximum air temperature (degC)": 3.1,
+    "Minimum air temperature (degC)": -4.1
   },
   {
     "Vuosi": 2019,
@@ -1660,11 +1660,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 3.6,
-    "Ylin lämpötila (degC)": 7.4,
-    "Alin lämpötila (degC)": -0.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 3.6,
+    "Maximum air temperature (degC)": 7.4,
+    "Minimum air temperature (degC)": -0.9
   },
   {
     "Vuosi": 2019,
@@ -1672,11 +1672,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.1,
-    "Ylin lämpötila (degC)": 11.5,
-    "Alin lämpötila (degC)": 2.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.1,
+    "Maximum air temperature (degC)": 11.5,
+    "Minimum air temperature (degC)": 2.6
   },
   {
     "Vuosi": 2019,
@@ -1684,11 +1684,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5.3,
-    "Ylin lämpötila (degC)": 10,
-    "Alin lämpötila (degC)": 2.8
+    "Rainfall (mm)": 1.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5.3,
+    "Maximum air temperature (degC)": 10,
+    "Minimum air temperature (degC)": 2.8
   },
   {
     "Vuosi": 2019,
@@ -1696,11 +1696,11 @@ am4core.ready(function () {
     "Pv": 31,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 3.3,
-    "Ylin lämpötila (degC)": 5.6,
-    "Alin lämpötila (degC)": 2.3
+    "Rainfall (mm)": 1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 3.3,
+    "Maximum air temperature (degC)": 5.6,
+    "Minimum air temperature (degC)": 2.3
   },
   {
     "Vuosi": 2019,
@@ -1708,11 +1708,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 3.5,
-    "Ylin lämpötila (degC)": 7.8,
-    "Alin lämpötila (degC)": -0.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 3.5,
+    "Maximum air temperature (degC)": 7.8,
+    "Minimum air temperature (degC)": -0.1
   },
   {
     "Vuosi": 2019,
@@ -1720,11 +1720,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 3.4,
-    "Ylin lämpötila (degC)": 6,
-    "Alin lämpötila (degC)": 1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 3.4,
+    "Maximum air temperature (degC)": 6,
+    "Minimum air temperature (degC)": 1
   },
   {
     "Vuosi": 2019,
@@ -1732,11 +1732,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6,
-    "Ylin lämpötila (degC)": 10.8,
-    "Alin lämpötila (degC)": 2.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6,
+    "Maximum air temperature (degC)": 10.8,
+    "Minimum air temperature (degC)": 2.1
   },
   {
     "Vuosi": 2019,
@@ -1744,11 +1744,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.6,
-    "Ylin lämpötila (degC)": 12.5,
-    "Alin lämpötila (degC)": 3.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.6,
+    "Maximum air temperature (degC)": 12.5,
+    "Minimum air temperature (degC)": 3.5
   },
   {
     "Vuosi": 2019,
@@ -1756,11 +1756,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5.8,
-    "Ylin lämpötila (degC)": 11.6,
-    "Alin lämpötila (degC)": -0.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5.8,
+    "Maximum air temperature (degC)": 11.6,
+    "Minimum air temperature (degC)": -0.1
   },
   {
     "Vuosi": 2019,
@@ -1768,11 +1768,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.6,
-    "Ylin lämpötila (degC)": 10.9,
-    "Alin lämpötila (degC)": 2.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.6,
+    "Maximum air temperature (degC)": 10.9,
+    "Minimum air temperature (degC)": 2.1
   },
   {
     "Vuosi": 2019,
@@ -1780,11 +1780,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.4,
-    "Ylin lämpötila (degC)": 10.3,
-    "Alin lämpötila (degC)": 1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.4,
+    "Maximum air temperature (degC)": 10.3,
+    "Minimum air temperature (degC)": 1
   },
   {
     "Vuosi": 2019,
@@ -1792,11 +1792,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.3,
-    "Ylin lämpötila (degC)": 9.5,
-    "Alin lämpötila (degC)": 1.3
+    "Rainfall (mm)": 3.4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.3,
+    "Maximum air temperature (degC)": 9.5,
+    "Minimum air temperature (degC)": 1.3
   },
   {
     "Vuosi": 2019,
@@ -1804,11 +1804,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.2,
-    "Ylin lämpötila (degC)": 5.1,
-    "Alin lämpötila (degC)": 0.9
+    "Rainfall (mm)": 2.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.2,
+    "Maximum air temperature (degC)": 5.1,
+    "Minimum air temperature (degC)": 0.9
   },
   {
     "Vuosi": 2019,
@@ -1816,11 +1816,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -0.4,
-    "Ylin lämpötila (degC)": 2.5,
-    "Alin lämpötila (degC)": -1.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -0.4,
+    "Maximum air temperature (degC)": 2.5,
+    "Minimum air temperature (degC)": -1.2
   },
   {
     "Vuosi": 2019,
@@ -1828,11 +1828,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -0.3,
-    "Ylin lämpötila (degC)": 4.3,
-    "Alin lämpötila (degC)": -3.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -0.3,
+    "Maximum air temperature (degC)": 4.3,
+    "Minimum air temperature (degC)": -3.1
   },
   {
     "Vuosi": 2019,
@@ -1840,11 +1840,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 1.5,
-    "Ylin lämpötila (degC)": 5,
-    "Alin lämpötila (degC)": -3.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 1.5,
+    "Maximum air temperature (degC)": 5,
+    "Minimum air temperature (degC)": -3.6
   },
   {
     "Vuosi": 2019,
@@ -1852,11 +1852,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.5,
-    "Ylin lämpötila (degC)": 6.4,
-    "Alin lämpötila (degC)": 2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.5,
+    "Maximum air temperature (degC)": 6.4,
+    "Minimum air temperature (degC)": 2
   },
   {
     "Vuosi": 2019,
@@ -1864,11 +1864,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.9,
-    "Ylin lämpötila (degC)": 8.9,
-    "Alin lämpötila (degC)": 3.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.9,
+    "Maximum air temperature (degC)": 8.9,
+    "Minimum air temperature (degC)": 3.2
   },
   {
     "Vuosi": 2019,
@@ -1876,11 +1876,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.7,
-    "Ylin lämpötila (degC)": 9.1,
-    "Alin lämpötila (degC)": -0.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.7,
+    "Maximum air temperature (degC)": 9.1,
+    "Minimum air temperature (degC)": -0.7
   },
   {
     "Vuosi": 2019,
@@ -1888,11 +1888,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.1,
-    "Ylin lämpötila (degC)": 13.1,
-    "Alin lämpötila (degC)": 1.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.1,
+    "Maximum air temperature (degC)": 13.1,
+    "Minimum air temperature (degC)": 1.1
   },
   {
     "Vuosi": 2019,
@@ -1900,11 +1900,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7,
-    "Ylin lämpötila (degC)": 11.1,
-    "Alin lämpötila (degC)": 1.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7,
+    "Maximum air temperature (degC)": 11.1,
+    "Minimum air temperature (degC)": 1.1
   },
   {
     "Vuosi": 2019,
@@ -1912,11 +1912,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.2,
-    "Ylin lämpötila (degC)": 15.8,
-    "Alin lämpötila (degC)": 3.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.2,
+    "Maximum air temperature (degC)": 15.8,
+    "Minimum air temperature (degC)": 3.9
   },
   {
     "Vuosi": 2019,
@@ -1924,11 +1924,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12,
-    "Ylin lämpötila (degC)": 17.1,
-    "Alin lämpötila (degC)": 4.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12,
+    "Maximum air temperature (degC)": 17.1,
+    "Minimum air temperature (degC)": 4.3
   },
   {
     "Vuosi": 2019,
@@ -1936,11 +1936,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.4,
-    "Ylin lämpötila (degC)": 13.8,
-    "Alin lämpötila (degC)": 5.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.4,
+    "Maximum air temperature (degC)": 13.8,
+    "Minimum air temperature (degC)": 5.4
   },
   {
     "Vuosi": 2019,
@@ -1948,11 +1948,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.4,
-    "Ylin lämpötila (degC)": 9.2,
-    "Alin lämpötila (degC)": 3.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.4,
+    "Maximum air temperature (degC)": 9.2,
+    "Minimum air temperature (degC)": 3.8
   },
   {
     "Vuosi": 2019,
@@ -1960,11 +1960,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.8,
-    "Ylin lämpötila (degC)": 14.9,
-    "Alin lämpötila (degC)": 4.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.8,
+    "Maximum air temperature (degC)": 14.9,
+    "Minimum air temperature (degC)": 4.5
   },
   {
     "Vuosi": 2019,
@@ -1972,11 +1972,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.3,
-    "Ylin lämpötila (degC)": 18.6,
-    "Alin lämpötila (degC)": 6.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.3,
+    "Maximum air temperature (degC)": 18.6,
+    "Minimum air temperature (degC)": 6.1
   },
   {
     "Vuosi": 2019,
@@ -1984,11 +1984,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 11.9,
-    "Ylin lämpötila (degC)": 16.8,
-    "Alin lämpötila (degC)": 4.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 11.9,
+    "Maximum air temperature (degC)": 16.8,
+    "Minimum air temperature (degC)": 4.8
   },
   {
     "Vuosi": 2019,
@@ -1996,11 +1996,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13.7,
-    "Ylin lämpötila (degC)": 17.5,
-    "Alin lämpötila (degC)": 8.4
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13.7,
+    "Maximum air temperature (degC)": 17.5,
+    "Minimum air temperature (degC)": 8.4
   },
   {
     "Vuosi": 2019,
@@ -2008,11 +2008,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.6,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.2,
-    "Ylin lämpötila (degC)": 15.3,
-    "Alin lämpötila (degC)": 10.1
+    "Rainfall (mm)": 0.6,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.2,
+    "Maximum air temperature (degC)": 15.3,
+    "Minimum air temperature (degC)": 10.1
   },
   {
     "Vuosi": 2019,
@@ -2020,11 +2020,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 14.3,
-    "Ylin lämpötila (degC)": 18.7,
-    "Alin lämpötila (degC)": 8.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 14.3,
+    "Maximum air temperature (degC)": 18.7,
+    "Minimum air temperature (degC)": 8.5
   },
   {
     "Vuosi": 2019,
@@ -2032,11 +2032,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.1,
-    "Ylin lämpötila (degC)": 13.9,
-    "Alin lämpötila (degC)": 4.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.1,
+    "Maximum air temperature (degC)": 13.9,
+    "Minimum air temperature (degC)": 4.5
   },
   {
     "Vuosi": 2019,
@@ -2044,11 +2044,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5.6,
-    "Ylin lämpötila (degC)": 9.3,
-    "Alin lämpötila (degC)": 1.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5.6,
+    "Maximum air temperature (degC)": 9.3,
+    "Minimum air temperature (degC)": 1.3
   },
   {
     "Vuosi": 2019,
@@ -2056,11 +2056,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.7,
-    "Ylin lämpötila (degC)": 10.1,
-    "Alin lämpötila (degC)": 3.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.7,
+    "Maximum air temperature (degC)": 10.1,
+    "Minimum air temperature (degC)": 3.1
   },
   {
     "Vuosi": 2019,
@@ -2068,11 +2068,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 4.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.3,
-    "Ylin lämpötila (degC)": 14.4,
-    "Alin lämpötila (degC)": 3.4
+    "Rainfall (mm)": 4.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.3,
+    "Maximum air temperature (degC)": 14.4,
+    "Minimum air temperature (degC)": 3.4
   },
   {
     "Vuosi": 2019,
@@ -2080,11 +2080,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 13.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.4,
-    "Ylin lämpötila (degC)": 7.9,
-    "Alin lämpötila (degC)": 2.7
+    "Rainfall (mm)": 13.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.4,
+    "Maximum air temperature (degC)": 7.9,
+    "Minimum air temperature (degC)": 2.7
   },
   {
     "Vuosi": 2019,
@@ -2092,11 +2092,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2,
-    "Ylin lämpötila (degC)": 5.2,
-    "Alin lämpötila (degC)": 0.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2,
+    "Maximum air temperature (degC)": 5.2,
+    "Minimum air temperature (degC)": 0.3
   },
   {
     "Vuosi": 2019,
@@ -2104,11 +2104,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 6.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.1,
-    "Ylin lämpötila (degC)": 5.8,
-    "Alin lämpötila (degC)": -0.4
+    "Rainfall (mm)": 6.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.1,
+    "Maximum air temperature (degC)": 5.8,
+    "Minimum air temperature (degC)": -0.4
   },
   {
     "Vuosi": 2019,
@@ -2116,11 +2116,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.8,
-    "Ylin lämpötila (degC)": 8.5,
-    "Alin lämpötila (degC)": -0.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.8,
+    "Maximum air temperature (degC)": 8.5,
+    "Minimum air temperature (degC)": -0.2
   },
   {
     "Vuosi": 2019,
@@ -2128,11 +2128,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.7,
-    "Ylin lämpötila (degC)": 10,
-    "Alin lämpötila (degC)": 3.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.7,
+    "Maximum air temperature (degC)": 10,
+    "Minimum air temperature (degC)": 3.7
   },
   {
     "Vuosi": 2019,
@@ -2140,11 +2140,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7,
-    "Ylin lämpötila (degC)": 9.5,
-    "Alin lämpötila (degC)": 5.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7,
+    "Maximum air temperature (degC)": 9.5,
+    "Minimum air temperature (degC)": 5.2
   },
   {
     "Vuosi": 2019,
@@ -2152,11 +2152,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.3,
-    "Ylin lämpötila (degC)": 11.3,
-    "Alin lämpötila (degC)": 4.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.3,
+    "Maximum air temperature (degC)": 11.3,
+    "Minimum air temperature (degC)": 4.7
   },
   {
     "Vuosi": 2019,
@@ -2164,11 +2164,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.4,
-    "Ylin lämpötila (degC)": 13.2,
-    "Alin lämpötila (degC)": 3.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.4,
+    "Maximum air temperature (degC)": 13.2,
+    "Minimum air temperature (degC)": 3.8
   },
   {
     "Vuosi": 2019,
@@ -2176,11 +2176,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.6,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.4,
-    "Ylin lämpötila (degC)": 11.6,
-    "Alin lämpötila (degC)": 7.7
+    "Rainfall (mm)": 3.6,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.4,
+    "Maximum air temperature (degC)": 11.6,
+    "Minimum air temperature (degC)": 7.7
   },
   {
     "Vuosi": 2019,
@@ -2188,11 +2188,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.5,
-    "Ylin lämpötila (degC)": 12,
-    "Alin lämpötila (degC)": 7.4
+    "Rainfall (mm)": 8.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.5,
+    "Maximum air temperature (degC)": 12,
+    "Minimum air temperature (degC)": 7.4
   },
   {
     "Vuosi": 2019,
@@ -2200,11 +2200,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.8,
-    "Ylin lämpötila (degC)": 12.6,
-    "Alin lämpötila (degC)": 5.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.8,
+    "Maximum air temperature (degC)": 12.6,
+    "Minimum air temperature (degC)": 5.7
   },
   {
     "Vuosi": 2019,
@@ -2212,11 +2212,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.6,
-    "Ylin lämpötila (degC)": 12.3,
-    "Alin lämpötila (degC)": 4.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.6,
+    "Maximum air temperature (degC)": 12.3,
+    "Minimum air temperature (degC)": 4.9
   },
   {
     "Vuosi": 2019,
@@ -2224,11 +2224,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9,
-    "Ylin lämpötila (degC)": 14,
-    "Alin lämpötila (degC)": 6.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9,
+    "Maximum air temperature (degC)": 14,
+    "Minimum air temperature (degC)": 6.6
   },
   {
     "Vuosi": 2019,
@@ -2236,11 +2236,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 10.1,
-    "Ylin lämpötila (degC)": 13.6,
-    "Alin lämpötila (degC)": 5.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 10.1,
+    "Maximum air temperature (degC)": 13.6,
+    "Minimum air temperature (degC)": 5.1
   },
   {
     "Vuosi": 2019,
@@ -2248,11 +2248,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 11.8,
-    "Ylin lämpötila (degC)": 16,
-    "Alin lämpötila (degC)": 4.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 11.8,
+    "Maximum air temperature (degC)": 16,
+    "Minimum air temperature (degC)": 4.9
   },
   {
     "Vuosi": 2019,
@@ -2260,11 +2260,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13.8,
-    "Ylin lämpötila (degC)": 18.2,
-    "Alin lämpötila (degC)": 6.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13.8,
+    "Maximum air temperature (degC)": 18.2,
+    "Minimum air temperature (degC)": 6.7
   },
   {
     "Vuosi": 2019,
@@ -2272,11 +2272,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.6,
-    "Ylin lämpötila (degC)": 20.2,
-    "Alin lämpötila (degC)": 8.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.6,
+    "Maximum air temperature (degC)": 20.2,
+    "Minimum air temperature (degC)": 8.9
   },
   {
     "Vuosi": 2019,
@@ -2284,11 +2284,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.1,
-    "Ylin lämpötila (degC)": 21,
-    "Alin lämpötila (degC)": 12.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.1,
+    "Maximum air temperature (degC)": 21,
+    "Minimum air temperature (degC)": 12.2
   },
   {
     "Vuosi": 2019,
@@ -2296,11 +2296,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.3,
-    "Ylin lämpötila (degC)": 20.5,
-    "Alin lämpötila (degC)": 13.9
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.3,
+    "Maximum air temperature (degC)": 20.5,
+    "Minimum air temperature (degC)": 13.9
   },
   {
     "Vuosi": 2019,
@@ -2308,11 +2308,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.3,
-    "Ylin lämpötila (degC)": 24.5,
-    "Alin lämpötila (degC)": 14.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.3,
+    "Maximum air temperature (degC)": 24.5,
+    "Minimum air temperature (degC)": 14.8
   },
   {
     "Vuosi": 2019,
@@ -2320,11 +2320,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.8,
-    "Ylin lämpötila (degC)": 21.6,
-    "Alin lämpötila (degC)": 15.5
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.8,
+    "Maximum air temperature (degC)": 21.6,
+    "Minimum air temperature (degC)": 15.5
   },
   {
     "Vuosi": 2019,
@@ -2332,11 +2332,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.6,
-    "Ylin lämpötila (degC)": 17.8,
-    "Alin lämpötila (degC)": 9.6
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.6,
+    "Maximum air temperature (degC)": 17.8,
+    "Minimum air temperature (degC)": 9.6
   },
   {
     "Vuosi": 2019,
@@ -2344,11 +2344,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.3,
-    "Ylin lämpötila (degC)": 10.5,
-    "Alin lämpötila (degC)": 8.2
+    "Rainfall (mm)": 1.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.3,
+    "Maximum air temperature (degC)": 10.5,
+    "Minimum air temperature (degC)": 8.2
   },
   {
     "Vuosi": 2019,
@@ -2356,11 +2356,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 10.9,
-    "Ylin lämpötila (degC)": 13.4,
-    "Alin lämpötila (degC)": 8.3
+    "Rainfall (mm)": 0.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 10.9,
+    "Maximum air temperature (degC)": 13.4,
+    "Minimum air temperature (degC)": 8.3
   },
   {
     "Vuosi": 2019,
@@ -2368,11 +2368,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 14.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.5,
-    "Ylin lämpötila (degC)": 11.8,
-    "Alin lämpötila (degC)": 8.1
+    "Rainfall (mm)": 14.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.5,
+    "Maximum air temperature (degC)": 11.8,
+    "Minimum air temperature (degC)": 8.1
   },
   {
     "Vuosi": 2019,
@@ -2380,11 +2380,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 10.5,
-    "Ylin lämpötila (degC)": 12.9,
-    "Alin lämpötila (degC)": 8.9
+    "Rainfall (mm)": 0.4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 10.5,
+    "Maximum air temperature (degC)": 12.9,
+    "Minimum air temperature (degC)": 8.9
   },
   {
     "Vuosi": 2019,
@@ -2392,11 +2392,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 11.7,
-    "Ylin lämpötila (degC)": 15.2,
-    "Alin lämpötila (degC)": 9
+    "Rainfall (mm)": 3.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 11.7,
+    "Maximum air temperature (degC)": 15.2,
+    "Minimum air temperature (degC)": 9
   },
   {
     "Vuosi": 2019,
@@ -2404,11 +2404,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.4,
-    "Ylin lämpötila (degC)": 16,
-    "Alin lämpötila (degC)": 10.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.4,
+    "Maximum air temperature (degC)": 16,
+    "Minimum air temperature (degC)": 10.8
   },
   {
     "Vuosi": 2019,
@@ -2416,11 +2416,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.5,
-    "Ylin lämpötila (degC)": 16.4,
-    "Alin lämpötila (degC)": 6.1
+    "Rainfall (mm)": 3.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.5,
+    "Maximum air temperature (degC)": 16.4,
+    "Minimum air temperature (degC)": 6.1
   },
   {
     "Vuosi": 2019,
@@ -2428,11 +2428,11 @@ am4core.ready(function () {
     "Pv": 31,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.1,
-    "Ylin lämpötila (degC)": 15.3,
-    "Alin lämpötila (degC)": 8.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.1,
+    "Maximum air temperature (degC)": 15.3,
+    "Minimum air temperature (degC)": 8.7
   },
   {
     "Vuosi": 2019,
@@ -2440,11 +2440,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.3,
-    "Ylin lämpötila (degC)": 16.5,
-    "Alin lämpötila (degC)": 8.4
+    "Rainfall (mm)": 2.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.3,
+    "Maximum air temperature (degC)": 16.5,
+    "Minimum air temperature (degC)": 8.4
   },
   {
     "Vuosi": 2019,
@@ -2452,11 +2452,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13.4,
-    "Ylin lämpötila (degC)": 17.8,
-    "Alin lämpötila (degC)": 10.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13.4,
+    "Maximum air temperature (degC)": 17.8,
+    "Minimum air temperature (degC)": 10.1
   },
   {
     "Vuosi": 2019,
@@ -2464,11 +2464,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 5.6,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13,
-    "Ylin lämpötila (degC)": 16.7,
-    "Alin lämpötila (degC)": 7.1
+    "Rainfall (mm)": 5.6,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13,
+    "Maximum air temperature (degC)": 16.7,
+    "Minimum air temperature (degC)": 7.1
   },
   {
     "Vuosi": 2019,
@@ -2476,11 +2476,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.2,
-    "Ylin lämpötila (degC)": 23.6,
-    "Alin lämpötila (degC)": 12.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.2,
+    "Maximum air temperature (degC)": 23.6,
+    "Minimum air temperature (degC)": 12.7
   },
   {
     "Vuosi": 2019,
@@ -2488,11 +2488,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.7,
-    "Ylin lämpötila (degC)": 23.1,
-    "Alin lämpötila (degC)": 12.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.7,
+    "Maximum air temperature (degC)": 23.1,
+    "Minimum air temperature (degC)": 12.7
   },
   {
     "Vuosi": 2019,
@@ -2500,11 +2500,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 21.6,
-    "Ylin lämpötila (degC)": 26.9,
-    "Alin lämpötila (degC)": 14.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 21.6,
+    "Maximum air temperature (degC)": 26.9,
+    "Minimum air temperature (degC)": 14.9
   },
   {
     "Vuosi": 2019,
@@ -2512,11 +2512,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 21.9,
-    "Ylin lämpötila (degC)": 26.8,
-    "Alin lämpötila (degC)": 18.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 21.9,
+    "Maximum air temperature (degC)": 26.8,
+    "Minimum air temperature (degC)": 18.2
   },
   {
     "Vuosi": 2019,
@@ -2524,11 +2524,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 22.1,
-    "Ylin lämpötila (degC)": 26.5,
-    "Alin lämpötila (degC)": 17.3
+    "Rainfall (mm)": 2.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 22.1,
+    "Maximum air temperature (degC)": 26.5,
+    "Minimum air temperature (degC)": 17.3
   },
   {
     "Vuosi": 2019,
@@ -2536,11 +2536,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.3,
-    "Ylin lämpötila (degC)": 22.2,
-    "Alin lämpötila (degC)": 16.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.3,
+    "Maximum air temperature (degC)": 22.2,
+    "Minimum air temperature (degC)": 16.2
   },
   {
     "Vuosi": 2019,
@@ -2548,11 +2548,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.4,
-    "Ylin lämpötila (degC)": 19.5,
-    "Alin lämpötila (degC)": 13.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.4,
+    "Maximum air temperature (degC)": 19.5,
+    "Minimum air temperature (degC)": 13.7
   },
   {
     "Vuosi": 2019,
@@ -2560,11 +2560,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17,
-    "Ylin lämpötila (degC)": 21.7,
-    "Alin lämpötila (degC)": 12.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17,
+    "Maximum air temperature (degC)": 21.7,
+    "Minimum air temperature (degC)": 12.2
   },
   {
     "Vuosi": 2019,
@@ -2572,11 +2572,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15,
-    "Ylin lämpötila (degC)": 18.7,
-    "Alin lämpötila (degC)": 12.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15,
+    "Maximum air temperature (degC)": 18.7,
+    "Minimum air temperature (degC)": 12.6
   },
   {
     "Vuosi": 2019,
@@ -2584,11 +2584,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 14,
-    "Ylin lämpötila (degC)": 16,
-    "Alin lämpötila (degC)": 12.2
+    "Rainfall (mm)": 1.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 14,
+    "Maximum air temperature (degC)": 16,
+    "Minimum air temperature (degC)": 12.2
   },
   {
     "Vuosi": 2019,
@@ -2596,11 +2596,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 14.4,
-    "Ylin lämpötila (degC)": 16.5,
-    "Alin lämpötila (degC)": 12.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 14.4,
+    "Maximum air temperature (degC)": 16.5,
+    "Minimum air temperature (degC)": 12.6
   },
   {
     "Vuosi": 2019,
@@ -2608,11 +2608,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.9,
-    "Ylin lämpötila (degC)": 21.6,
-    "Alin lämpötila (degC)": 13.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.9,
+    "Maximum air temperature (degC)": 21.6,
+    "Minimum air temperature (degC)": 13.5
   },
   {
     "Vuosi": 2019,
@@ -2620,11 +2620,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.4,
-    "Ylin lämpötila (degC)": 23.3,
-    "Alin lämpötila (degC)": 12.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.4,
+    "Maximum air temperature (degC)": 23.3,
+    "Minimum air temperature (degC)": 12.5
   },
   {
     "Vuosi": 2019,
@@ -2632,11 +2632,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.5,
-    "Ylin lämpötila (degC)": 22.4,
-    "Alin lämpötila (degC)": 13.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.5,
+    "Maximum air temperature (degC)": 22.4,
+    "Minimum air temperature (degC)": 13.6
   },
   {
     "Vuosi": 2019,
@@ -2644,11 +2644,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.2,
-    "Ylin lämpötila (degC)": 22.8,
-    "Alin lämpötila (degC)": 15
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.2,
+    "Maximum air temperature (degC)": 22.8,
+    "Minimum air temperature (degC)": 15
   },
   {
     "Vuosi": 2019,
@@ -2656,11 +2656,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.8,
-    "Ylin lämpötila (degC)": 22.6,
-    "Alin lämpötila (degC)": 14.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.8,
+    "Maximum air temperature (degC)": 22.6,
+    "Minimum air temperature (degC)": 14.1
   },
   {
     "Vuosi": 2019,
@@ -2668,11 +2668,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 20,
-    "Ylin lämpötila (degC)": 24.6,
-    "Alin lämpötila (degC)": 15
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 20,
+    "Maximum air temperature (degC)": 24.6,
+    "Minimum air temperature (degC)": 15
   },
   {
     "Vuosi": 2019,
@@ -2680,11 +2680,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 20,
-    "Ylin lämpötila (degC)": 24.5,
-    "Alin lämpötila (degC)": 17.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 20,
+    "Maximum air temperature (degC)": 24.5,
+    "Minimum air temperature (degC)": 17.2
   },
   {
     "Vuosi": 2019,
@@ -2692,11 +2692,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.3,
-    "Ylin lämpötila (degC)": 20,
-    "Alin lämpötila (degC)": 14.2
+    "Rainfall (mm)": 0.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.3,
+    "Maximum air temperature (degC)": 20,
+    "Minimum air temperature (degC)": 14.2
   },
   {
     "Vuosi": 2019,
@@ -2704,11 +2704,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.3,
-    "Ylin lämpötila (degC)": 20.2,
-    "Alin lämpötila (degC)": 13.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.3,
+    "Maximum air temperature (degC)": 20.2,
+    "Minimum air temperature (degC)": 13.6
   },
   {
     "Vuosi": 2019,
@@ -2716,11 +2716,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 19.5,
-    "Ylin lämpötila (degC)": 23.8,
-    "Alin lämpötila (degC)": 13.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 19.5,
+    "Maximum air temperature (degC)": 23.8,
+    "Minimum air temperature (degC)": 13.9
   },
   {
     "Vuosi": 2019,
@@ -2728,11 +2728,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17,
-    "Ylin lämpötila (degC)": 20.8,
-    "Alin lämpötila (degC)": 11.6
+    "Rainfall (mm)": 0.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17,
+    "Maximum air temperature (degC)": 20.8,
+    "Minimum air temperature (degC)": 11.6
   },
   {
     "Vuosi": 2019,
@@ -2740,11 +2740,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.1,
-    "Ylin lämpötila (degC)": 19.5,
-    "Alin lämpötila (degC)": 13.5
+    "Rainfall (mm)": 2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.1,
+    "Maximum air temperature (degC)": 19.5,
+    "Minimum air temperature (degC)": 13.5
   },
   {
     "Vuosi": 2019,
@@ -2752,11 +2752,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.8,
-    "Ylin lämpötila (degC)": 20.1,
-    "Alin lämpötila (degC)": 13.6
+    "Rainfall (mm)": 0.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.8,
+    "Maximum air temperature (degC)": 20.1,
+    "Minimum air temperature (degC)": 13.6
   },
   {
     "Vuosi": 2019,
@@ -2764,11 +2764,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.9,
-    "Ylin lämpötila (degC)": 21.5,
-    "Alin lämpötila (degC)": 11.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.9,
+    "Maximum air temperature (degC)": 21.5,
+    "Minimum air temperature (degC)": 11.5
   },
   {
     "Vuosi": 2019,
@@ -2776,11 +2776,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.7,
-    "Ylin lämpötila (degC)": 21.3,
-    "Alin lämpötila (degC)": 10.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.7,
+    "Maximum air temperature (degC)": 21.3,
+    "Minimum air temperature (degC)": 10.9
   },
   {
     "Vuosi": 2019,
@@ -2788,11 +2788,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.6,
-    "Ylin lämpötila (degC)": 23.2,
-    "Alin lämpötila (degC)": 14.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.6,
+    "Maximum air temperature (degC)": 23.2,
+    "Minimum air temperature (degC)": 14.4
   },
   {
     "Vuosi": 2019,
@@ -2800,11 +2800,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.9,
-    "Ylin lämpötila (degC)": 23.7,
-    "Alin lämpötila (degC)": 15.9
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.9,
+    "Maximum air temperature (degC)": 23.7,
+    "Minimum air temperature (degC)": 15.9
   },
   {
     "Vuosi": 2019,
@@ -2812,11 +2812,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 22.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.5,
-    "Ylin lämpötila (degC)": 19.5,
-    "Alin lämpötila (degC)": 13.6
+    "Rainfall (mm)": 22.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.5,
+    "Maximum air temperature (degC)": 19.5,
+    "Minimum air temperature (degC)": 13.6
   },
   {
     "Vuosi": 2019,
@@ -2824,11 +2824,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.2,
-    "Ylin lämpötila (degC)": 20.6,
-    "Alin lämpötila (degC)": 11.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.2,
+    "Maximum air temperature (degC)": 20.6,
+    "Minimum air temperature (degC)": 11.9
   },
   {
     "Vuosi": 2019,
@@ -2836,11 +2836,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 13.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13.9,
-    "Ylin lämpötila (degC)": 17.7,
-    "Alin lämpötila (degC)": 10.2
+    "Rainfall (mm)": 13.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13.9,
+    "Maximum air temperature (degC)": 17.7,
+    "Minimum air temperature (degC)": 10.2
   },
   {
     "Vuosi": 2019,
@@ -2848,11 +2848,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 11.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.9,
-    "Ylin lämpötila (degC)": 16.5,
-    "Alin lämpötila (degC)": 11
+    "Rainfall (mm)": 11.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.9,
+    "Maximum air temperature (degC)": 16.5,
+    "Minimum air temperature (degC)": 11
   },
   {
     "Vuosi": 2019,
@@ -2860,11 +2860,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 7.4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13.3,
-    "Ylin lämpötila (degC)": 19.1,
-    "Alin lämpötila (degC)": 10.2
+    "Rainfall (mm)": 7.4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13.3,
+    "Maximum air temperature (degC)": 19.1,
+    "Minimum air temperature (degC)": 10.2
   },
   {
     "Vuosi": 2019,
@@ -2872,11 +2872,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 14.6,
-    "Ylin lämpötila (degC)": 18.4,
-    "Alin lämpötila (degC)": 10.2
+    "Rainfall (mm)": 2.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 14.6,
+    "Maximum air temperature (degC)": 18.4,
+    "Minimum air temperature (degC)": 10.2
   },
   {
     "Vuosi": 2019,
@@ -2884,11 +2884,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 10.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.2,
-    "Ylin lämpötila (degC)": 19.9,
-    "Alin lämpötila (degC)": 13
+    "Rainfall (mm)": 10.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.2,
+    "Maximum air temperature (degC)": 19.9,
+    "Minimum air temperature (degC)": 13
   },
   {
     "Vuosi": 2019,
@@ -2896,11 +2896,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13,
-    "Ylin lämpötila (degC)": 15.2,
-    "Alin lämpötila (degC)": 11.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13,
+    "Maximum air temperature (degC)": 15.2,
+    "Minimum air temperature (degC)": 11.4
   },
   {
     "Vuosi": 2019,
@@ -2908,11 +2908,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.8,
-    "Ylin lämpötila (degC)": 21.4,
-    "Alin lämpötila (degC)": 12.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.8,
+    "Maximum air temperature (degC)": 21.4,
+    "Minimum air temperature (degC)": 12.2
   },
   {
     "Vuosi": 2019,
@@ -2920,11 +2920,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13,
-    "Ylin lämpötila (degC)": 19.5,
-    "Alin lämpötila (degC)": 11.6
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13,
+    "Maximum air temperature (degC)": 19.5,
+    "Minimum air temperature (degC)": 11.6
   },
   {
     "Vuosi": 2019,
@@ -2932,11 +2932,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 14.4,
-    "Ylin lämpötila (degC)": 20,
-    "Alin lämpötila (degC)": 8.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 14.4,
+    "Maximum air temperature (degC)": 20,
+    "Minimum air temperature (degC)": 8.4
   },
   {
     "Vuosi": 2019,
@@ -2944,11 +2944,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.5,
-    "Ylin lämpötila (degC)": 21.6,
-    "Alin lämpötila (degC)": 13.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.5,
+    "Maximum air temperature (degC)": 21.6,
+    "Minimum air temperature (degC)": 13.2
   },
   {
     "Vuosi": 2019,
@@ -2956,11 +2956,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.4,
-    "Ylin lämpötila (degC)": 18.1,
-    "Alin lämpötila (degC)": 11.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.4,
+    "Maximum air temperature (degC)": 18.1,
+    "Minimum air temperature (degC)": 11.4
   },
   {
     "Vuosi": 2019,
@@ -2968,11 +2968,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.5,
-    "Ylin lämpötila (degC)": 19.2,
-    "Alin lämpötila (degC)": 12.8
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.5,
+    "Maximum air temperature (degC)": 19.2,
+    "Minimum air temperature (degC)": 12.8
   },
   {
     "Vuosi": 2019,
@@ -2980,11 +2980,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.9,
-    "Ylin lämpötila (degC)": 20,
-    "Alin lämpötila (degC)": 13.9
+    "Rainfall (mm)": 3.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.9,
+    "Maximum air temperature (degC)": 20,
+    "Minimum air temperature (degC)": 13.9
   },
   {
     "Vuosi": 2019,
@@ -2992,11 +2992,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.8,
-    "Ylin lämpötila (degC)": 22.9,
-    "Alin lämpötila (degC)": 13
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.8,
+    "Maximum air temperature (degC)": 22.9,
+    "Minimum air temperature (degC)": 13
   },
   {
     "Vuosi": 2019,
@@ -3004,11 +3004,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 19.7,
-    "Ylin lämpötila (degC)": 24.7,
-    "Alin lämpötila (degC)": 12.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 19.7,
+    "Maximum air temperature (degC)": 24.7,
+    "Minimum air temperature (degC)": 12.7
   },
   {
     "Vuosi": 2019,
@@ -3016,11 +3016,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 19.8,
-    "Ylin lämpötila (degC)": 25,
-    "Alin lämpötila (degC)": 14.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 19.8,
+    "Maximum air temperature (degC)": 25,
+    "Minimum air temperature (degC)": 14.7
   },
   {
     "Vuosi": 2019,
@@ -3028,11 +3028,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 19.7,
-    "Ylin lämpötila (degC)": 25.1,
-    "Alin lämpötila (degC)": 13.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 19.7,
+    "Maximum air temperature (degC)": 25.1,
+    "Minimum air temperature (degC)": 13.1
   },
   {
     "Vuosi": 2019,
@@ -3040,11 +3040,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 20.5,
-    "Ylin lämpötila (degC)": 25.1,
-    "Alin lämpötila (degC)": 14.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 20.5,
+    "Maximum air temperature (degC)": 25.1,
+    "Minimum air temperature (degC)": 14.2
   },
   {
     "Vuosi": 2019,
@@ -3052,11 +3052,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 20,
-    "Ylin lämpötila (degC)": 22.5,
-    "Alin lämpötila (degC)": 17.9
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 20,
+    "Maximum air temperature (degC)": 22.5,
+    "Minimum air temperature (degC)": 17.9
   },
   {
     "Vuosi": 2019,
@@ -3064,11 +3064,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 21.8,
-    "Ylin lämpötila (degC)": 25.7,
-    "Alin lämpötila (degC)": 16.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 21.8,
+    "Maximum air temperature (degC)": 25.7,
+    "Minimum air temperature (degC)": 16.3
   },
   {
     "Vuosi": 2019,
@@ -3076,11 +3076,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 23.3,
-    "Ylin lämpötila (degC)": 28.7,
-    "Alin lämpötila (degC)": 16.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 23.3,
+    "Maximum air temperature (degC)": 28.7,
+    "Minimum air temperature (degC)": 16.4
   },
   {
     "Vuosi": 2019,
@@ -3088,11 +3088,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 20.9,
-    "Ylin lämpötila (degC)": 25.4,
-    "Alin lämpötila (degC)": 18.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 20.9,
+    "Maximum air temperature (degC)": 25.4,
+    "Minimum air temperature (degC)": 18.5
   },
   {
     "Vuosi": 2019,
@@ -3100,11 +3100,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 22.2,
-    "Ylin lämpötila (degC)": 25.6,
-    "Alin lämpötila (degC)": 17.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 22.2,
+    "Maximum air temperature (degC)": 25.6,
+    "Minimum air temperature (degC)": 17.4
   },
   {
     "Vuosi": 2019,
@@ -3112,11 +3112,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 24.9,
-    "Ylin lämpötila (degC)": 29.1,
-    "Alin lämpötila (degC)": 19.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 24.9,
+    "Maximum air temperature (degC)": 29.1,
+    "Minimum air temperature (degC)": 19.3
   },
   {
     "Vuosi": 2019,
@@ -3124,11 +3124,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 25.3,
-    "Ylin lämpötila (degC)": 33.2,
-    "Alin lämpötila (degC)": 20.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 25.3,
+    "Maximum air temperature (degC)": 33.2,
+    "Minimum air temperature (degC)": 20.2
   },
   {
     "Vuosi": 2019,
@@ -3136,11 +3136,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.6,
-    "Ylin lämpötila (degC)": 21.6,
-    "Alin lämpötila (degC)": 16.6
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.6,
+    "Maximum air temperature (degC)": 21.6,
+    "Minimum air temperature (degC)": 16.6
   },
   {
     "Vuosi": 2019,
@@ -3148,11 +3148,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 14.5,
-    "Ylin lämpötila (degC)": 18.5,
-    "Alin lämpötila (degC)": 11.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 14.5,
+    "Maximum air temperature (degC)": 18.5,
+    "Minimum air temperature (degC)": 11.5
   },
   {
     "Vuosi": 2019,
@@ -3160,11 +3160,11 @@ am4core.ready(function () {
     "Pv": 31,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16,
-    "Ylin lämpötila (degC)": 21.2,
-    "Alin lämpötila (degC)": 11.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16,
+    "Maximum air temperature (degC)": 21.2,
+    "Minimum air temperature (degC)": 11.4
   },
   {
     "Vuosi": 2019,
@@ -3172,11 +3172,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.1,
-    "Ylin lämpötila (degC)": 19,
-    "Alin lämpötila (degC)": 11.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.1,
+    "Maximum air temperature (degC)": 19,
+    "Minimum air temperature (degC)": 11.7
   },
   {
     "Vuosi": 2019,
@@ -3184,11 +3184,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.1,
-    "Ylin lämpötila (degC)": 21.6,
-    "Alin lämpötila (degC)": 11.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.1,
+    "Maximum air temperature (degC)": 21.6,
+    "Minimum air temperature (degC)": 11.1
   },
   {
     "Vuosi": 2019,
@@ -3196,11 +3196,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13.8,
-    "Ylin lämpötila (degC)": 18.3,
-    "Alin lämpötila (degC)": 9.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13.8,
+    "Maximum air temperature (degC)": 18.3,
+    "Minimum air temperature (degC)": 9.8
   },
   {
     "Vuosi": 2019,
@@ -3208,11 +3208,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13.4,
-    "Ylin lämpötila (degC)": 18.3,
-    "Alin lämpötila (degC)": 8.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13.4,
+    "Maximum air temperature (degC)": 18.3,
+    "Minimum air temperature (degC)": 8.8
   },
   {
     "Vuosi": 2019,
@@ -3220,11 +3220,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.6,
-    "Ylin lämpötila (degC)": 23,
-    "Alin lämpötila (degC)": 9.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.6,
+    "Maximum air temperature (degC)": 23,
+    "Minimum air temperature (degC)": 9.4
   },
   {
     "Vuosi": 2019,
@@ -3232,11 +3232,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.9,
-    "Ylin lämpötila (degC)": 20.3,
-    "Alin lämpötila (degC)": 12.6
+    "Rainfall (mm)": 0.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.9,
+    "Maximum air temperature (degC)": 20.3,
+    "Minimum air temperature (degC)": 12.6
   },
   {
     "Vuosi": 2019,
@@ -3244,11 +3244,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.1,
-    "Ylin lämpötila (degC)": 19.9,
-    "Alin lämpötila (degC)": 15.1
+    "Rainfall (mm)": 3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.1,
+    "Maximum air temperature (degC)": 19.9,
+    "Minimum air temperature (degC)": 15.1
   },
   {
     "Vuosi": 2019,
@@ -3256,11 +3256,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.4,
-    "Ylin lämpötila (degC)": 20.7,
-    "Alin lämpötila (degC)": 14.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.4,
+    "Maximum air temperature (degC)": 20.7,
+    "Minimum air temperature (degC)": 14.2
   },
   {
     "Vuosi": 2019,
@@ -3268,11 +3268,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.4,
-    "Ylin lämpötila (degC)": 21.8,
-    "Alin lämpötila (degC)": 14.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.4,
+    "Maximum air temperature (degC)": 21.8,
+    "Minimum air temperature (degC)": 14.3
   },
   {
     "Vuosi": 2019,
@@ -3280,11 +3280,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.2,
-    "Ylin lämpötila (degC)": 21.9,
-    "Alin lämpötila (degC)": 12.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.2,
+    "Maximum air temperature (degC)": 21.9,
+    "Minimum air temperature (degC)": 12.4
   },
   {
     "Vuosi": 2019,
@@ -3292,11 +3292,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 4.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18,
-    "Ylin lämpötila (degC)": 19.7,
-    "Alin lämpötila (degC)": 16.3
+    "Rainfall (mm)": 4.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18,
+    "Maximum air temperature (degC)": 19.7,
+    "Minimum air temperature (degC)": 16.3
   },
   {
     "Vuosi": 2019,
@@ -3304,11 +3304,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.5,
-    "Ylin lämpötila (degC)": 21.1,
-    "Alin lämpötila (degC)": 17.3
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.5,
+    "Maximum air temperature (degC)": 21.1,
+    "Minimum air temperature (degC)": 17.3
   },
   {
     "Vuosi": 2019,
@@ -3316,11 +3316,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18,
-    "Ylin lämpötila (degC)": 20.3,
-    "Alin lämpötila (degC)": 16.4
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18,
+    "Maximum air temperature (degC)": 20.3,
+    "Minimum air temperature (degC)": 16.4
   },
   {
     "Vuosi": 2019,
@@ -3328,11 +3328,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.4,
-    "Ylin lämpötila (degC)": 19.8,
-    "Alin lämpötila (degC)": 16.1
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.4,
+    "Maximum air temperature (degC)": 19.8,
+    "Minimum air temperature (degC)": 16.1
   },
   {
     "Vuosi": 2019,
@@ -3340,11 +3340,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.3,
-    "Ylin lämpötila (degC)": 20.6,
-    "Alin lämpötila (degC)": 14.5
+    "Rainfall (mm)": 1.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.3,
+    "Maximum air temperature (degC)": 20.6,
+    "Minimum air temperature (degC)": 14.5
   },
   {
     "Vuosi": 2019,
@@ -3352,11 +3352,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.8,
-    "Ylin lämpötila (degC)": 20.2,
-    "Alin lämpötila (degC)": 12.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.8,
+    "Maximum air temperature (degC)": 20.2,
+    "Minimum air temperature (degC)": 12.7
   },
   {
     "Vuosi": 2019,
@@ -3364,11 +3364,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.6,
-    "Ylin lämpötila (degC)": 22.2,
-    "Alin lämpötila (degC)": 16.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.6,
+    "Maximum air temperature (degC)": 22.2,
+    "Minimum air temperature (degC)": 16.8
   },
   {
     "Vuosi": 2019,
@@ -3376,11 +3376,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.8,
-    "Ylin lämpötila (degC)": 21.4,
-    "Alin lämpötila (degC)": 16.7
+    "Rainfall (mm)": 3.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.8,
+    "Maximum air temperature (degC)": 21.4,
+    "Minimum air temperature (degC)": 16.7
   },
   {
     "Vuosi": 2019,
@@ -3388,11 +3388,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.7,
-    "Ylin lämpötila (degC)": 19.7,
-    "Alin lämpötila (degC)": 15.9
+    "Rainfall (mm)": 2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.7,
+    "Maximum air temperature (degC)": 19.7,
+    "Minimum air temperature (degC)": 15.9
   },
   {
     "Vuosi": 2019,
@@ -3400,11 +3400,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.8,
-    "Ylin lämpötila (degC)": 20.5,
-    "Alin lämpötila (degC)": 15.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.8,
+    "Maximum air temperature (degC)": 20.5,
+    "Minimum air temperature (degC)": 15.1
   },
   {
     "Vuosi": 2019,
@@ -3412,11 +3412,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.3,
-    "Ylin lämpötila (degC)": 19.4,
-    "Alin lämpötila (degC)": 16.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.3,
+    "Maximum air temperature (degC)": 19.4,
+    "Minimum air temperature (degC)": 16.3
   },
   {
     "Vuosi": 2019,
@@ -3424,11 +3424,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 50.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.2,
-    "Ylin lämpötila (degC)": 21.1,
-    "Alin lämpötila (degC)": 12.9
+    "Rainfall (mm)": 50.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.2,
+    "Maximum air temperature (degC)": 21.1,
+    "Minimum air temperature (degC)": 12.9
   },
   {
     "Vuosi": 2019,
@@ -3436,11 +3436,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 12.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.1,
-    "Ylin lämpötila (degC)": 19.4,
-    "Alin lämpötila (degC)": 13
+    "Rainfall (mm)": 12.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.1,
+    "Maximum air temperature (degC)": 19.4,
+    "Minimum air temperature (degC)": 13
   },
   {
     "Vuosi": 2019,
@@ -3448,11 +3448,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.3,
-    "Ylin lämpötila (degC)": 21.4,
-    "Alin lämpötila (degC)": 14.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.3,
+    "Maximum air temperature (degC)": 21.4,
+    "Minimum air temperature (degC)": 14.4
   },
   {
     "Vuosi": 2019,
@@ -3460,11 +3460,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.5,
-    "Ylin lämpötila (degC)": 20.2,
-    "Alin lämpötila (degC)": 10.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.5,
+    "Maximum air temperature (degC)": 20.2,
+    "Minimum air temperature (degC)": 10.3
   },
   {
     "Vuosi": 2019,
@@ -3472,11 +3472,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 19,
-    "Ylin lämpötila (degC)": 22.6,
-    "Alin lämpötila (degC)": 15.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 19,
+    "Maximum air temperature (degC)": 22.6,
+    "Minimum air temperature (degC)": 15.3
   },
   {
     "Vuosi": 2019,
@@ -3484,11 +3484,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.9,
-    "Ylin lämpötila (degC)": 21.2,
-    "Alin lämpötila (degC)": 14.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.9,
+    "Maximum air temperature (degC)": 21.2,
+    "Minimum air temperature (degC)": 14.1
   },
   {
     "Vuosi": 2019,
@@ -3496,11 +3496,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.8,
-    "Ylin lämpötila (degC)": 23.1,
-    "Alin lämpötila (degC)": 14
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.8,
+    "Maximum air temperature (degC)": 23.1,
+    "Minimum air temperature (degC)": 14
   },
   {
     "Vuosi": 2019,
@@ -3508,11 +3508,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 19.8,
-    "Ylin lämpötila (degC)": 22.2,
-    "Alin lämpötila (degC)": 16.8
+    "Rainfall (mm)": 3.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 19.8,
+    "Maximum air temperature (degC)": 22.2,
+    "Minimum air temperature (degC)": 16.8
   },
   {
     "Vuosi": 2019,
@@ -3520,11 +3520,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.8,
-    "Ylin lämpötila (degC)": 21.1,
-    "Alin lämpötila (degC)": 17.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.8,
+    "Maximum air temperature (degC)": 21.1,
+    "Minimum air temperature (degC)": 17.7
   },
   {
     "Vuosi": 2019,
@@ -3532,11 +3532,11 @@ am4core.ready(function () {
     "Pv": 31,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.8,
-    "Ylin lämpötila (degC)": 20.5,
-    "Alin lämpötila (degC)": 14.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.8,
+    "Maximum air temperature (degC)": 20.5,
+    "Minimum air temperature (degC)": 14.1
   },
   {
     "Vuosi": 2019,
@@ -3544,11 +3544,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.3,
-    "Ylin lämpötila (degC)": 21.6,
-    "Alin lämpötila (degC)": 15.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.3,
+    "Maximum air temperature (degC)": 21.6,
+    "Minimum air temperature (degC)": 15.3
   },
   {
     "Vuosi": 2019,
@@ -3556,11 +3556,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 17.9,
-    "Ylin lämpötila (degC)": 22.5,
-    "Alin lämpötila (degC)": 14.3
+    "Rainfall (mm)": 8.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 17.9,
+    "Maximum air temperature (degC)": 22.5,
+    "Minimum air temperature (degC)": 14.3
   },
   {
     "Vuosi": 2019,
@@ -3568,11 +3568,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.4,
-    "Ylin lämpötila (degC)": 18.8,
-    "Alin lämpötila (degC)": 12.9
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.4,
+    "Maximum air temperature (degC)": 18.8,
+    "Minimum air temperature (degC)": 12.9
   },
   {
     "Vuosi": 2019,
@@ -3580,11 +3580,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.4,
-    "Ylin lämpötila (degC)": 20.2,
-    "Alin lämpötila (degC)": 11.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.4,
+    "Maximum air temperature (degC)": 20.2,
+    "Minimum air temperature (degC)": 11.3
   },
   {
     "Vuosi": 2019,
@@ -3592,11 +3592,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 4.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.5,
-    "Ylin lämpötila (degC)": 19.7,
-    "Alin lämpötila (degC)": 12.7
+    "Rainfall (mm)": 4.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.5,
+    "Maximum air temperature (degC)": 19.7,
+    "Minimum air temperature (degC)": 12.7
   },
   {
     "Vuosi": 2019,
@@ -3604,11 +3604,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.1,
-    "Ylin lämpötila (degC)": 17.2,
-    "Alin lämpötila (degC)": 13.5
+    "Rainfall (mm)": 0.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.1,
+    "Maximum air temperature (degC)": 17.2,
+    "Minimum air temperature (degC)": 13.5
   },
   {
     "Vuosi": 2019,
@@ -3616,11 +3616,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.6,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 14.1,
-    "Ylin lämpötila (degC)": 18.3,
-    "Alin lämpötila (degC)": 9.8
+    "Rainfall (mm)": 3.6,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 14.1,
+    "Maximum air temperature (degC)": 18.3,
+    "Minimum air temperature (degC)": 9.8
   },
   {
     "Vuosi": 2019,
@@ -3628,11 +3628,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.7,
-    "Ylin lämpötila (degC)": 17,
-    "Alin lämpötila (degC)": 12.5
+    "Rainfall (mm)": 0.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.7,
+    "Maximum air temperature (degC)": 17,
+    "Minimum air temperature (degC)": 12.5
   },
   {
     "Vuosi": 2019,
@@ -3640,11 +3640,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.8,
-    "Ylin lämpötila (degC)": 18.7,
-    "Alin lämpötila (degC)": 14.8
+    "Rainfall (mm)": 3.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.8,
+    "Maximum air temperature (degC)": 18.7,
+    "Minimum air temperature (degC)": 14.8
   },
   {
     "Vuosi": 2019,
@@ -3652,11 +3652,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 18.9,
-    "Ylin lämpötila (degC)": 21.1,
-    "Alin lämpötila (degC)": 15.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 18.9,
+    "Maximum air temperature (degC)": 21.1,
+    "Minimum air temperature (degC)": 15.7
   },
   {
     "Vuosi": 2019,
@@ -3664,11 +3664,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 4.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 16.6,
-    "Ylin lämpötila (degC)": 20.4,
-    "Alin lämpötila (degC)": 15
+    "Rainfall (mm)": 4.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 16.6,
+    "Maximum air temperature (degC)": 20.4,
+    "Minimum air temperature (degC)": 15
   },
   {
     "Vuosi": 2019,
@@ -3676,11 +3676,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 15.8,
-    "Ylin lämpötila (degC)": 17.2,
-    "Alin lämpötila (degC)": 14.9
+    "Rainfall (mm)": 0.4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 15.8,
+    "Maximum air temperature (degC)": 17.2,
+    "Minimum air temperature (degC)": 14.9
   },
   {
     "Vuosi": 2019,
@@ -3688,11 +3688,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 13.1,
-    "Ylin lämpötila (degC)": 16.5,
-    "Alin lämpötila (degC)": 11.1
+    "Rainfall (mm)": 8.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 13.1,
+    "Maximum air temperature (degC)": 16.5,
+    "Minimum air temperature (degC)": 11.1
   },
   {
     "Vuosi": 2019,
@@ -3700,11 +3700,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 11,
-    "Ylin lämpötila (degC)": 14.6,
-    "Alin lämpötila (degC)": 9
+    "Rainfall (mm)": 8.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 11,
+    "Maximum air temperature (degC)": 14.6,
+    "Minimum air temperature (degC)": 9
   },
   {
     "Vuosi": 2019,
@@ -3712,11 +3712,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 13.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 11,
-    "Ylin lämpötila (degC)": 13.5,
-    "Alin lämpötila (degC)": 6.6
+    "Rainfall (mm)": 13.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 11,
+    "Maximum air temperature (degC)": 13.5,
+    "Minimum air temperature (degC)": 6.6
   },
   {
     "Vuosi": 2019,
@@ -3724,11 +3724,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.6,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 10.6,
-    "Ylin lämpötila (degC)": 14.1,
-    "Alin lämpötila (degC)": 9
+    "Rainfall (mm)": 1.6,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 10.6,
+    "Maximum air temperature (degC)": 14.1,
+    "Minimum air temperature (degC)": 9
   },
   {
     "Vuosi": 2019,
@@ -3736,11 +3736,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.9,
-    "Ylin lämpötila (degC)": 11.9,
-    "Alin lämpötila (degC)": 5.8
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.9,
+    "Maximum air temperature (degC)": 11.9,
+    "Minimum air temperature (degC)": 5.8
   },
   {
     "Vuosi": 2019,
@@ -3748,11 +3748,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.7,
-    "Ylin lämpötila (degC)": 13.5,
-    "Alin lämpötila (degC)": 6.9
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.7,
+    "Maximum air temperature (degC)": 13.5,
+    "Minimum air temperature (degC)": 6.9
   },
   {
     "Vuosi": 2019,
@@ -3760,11 +3760,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.6,
-    "Ylin lämpötila (degC)": 11.9,
-    "Alin lämpötila (degC)": 2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.6,
+    "Maximum air temperature (degC)": 11.9,
+    "Minimum air temperature (degC)": 2
   },
   {
     "Vuosi": 2019,
@@ -3772,11 +3772,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.1,
-    "Ylin lämpötila (degC)": 11.5,
-    "Alin lämpötila (degC)": 1.6
+    "Rainfall (mm)": 1.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.1,
+    "Maximum air temperature (degC)": 11.5,
+    "Minimum air temperature (degC)": 1.6
   },
   {
     "Vuosi": 2019,
@@ -3784,11 +3784,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.9,
-    "Ylin lämpötila (degC)": 10.9,
-    "Alin lämpötila (degC)": 6.1
+    "Rainfall (mm)": 0.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.9,
+    "Maximum air temperature (degC)": 10.9,
+    "Minimum air temperature (degC)": 6.1
   },
   {
     "Vuosi": 2019,
@@ -3796,11 +3796,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.7,
-    "Ylin lämpötila (degC)": 10.6,
-    "Alin lämpötila (degC)": 3.8
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.7,
+    "Maximum air temperature (degC)": 10.6,
+    "Minimum air temperature (degC)": 3.8
   },
   {
     "Vuosi": 2019,
@@ -3808,11 +3808,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5.7,
-    "Ylin lämpötila (degC)": 10.6,
-    "Alin lämpötila (degC)": 1.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5.7,
+    "Maximum air temperature (degC)": 10.6,
+    "Minimum air temperature (degC)": 1.4
   },
   {
     "Vuosi": 2019,
@@ -3820,11 +3820,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.2,
-    "Ylin lämpötila (degC)": 10,
-    "Alin lämpötila (degC)": 3.6
+    "Rainfall (mm)": 3.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.2,
+    "Maximum air temperature (degC)": 10,
+    "Minimum air temperature (degC)": 3.6
   },
   {
     "Vuosi": 2019,
@@ -3832,11 +3832,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.4,
-    "Ylin lämpötila (degC)": 8.6,
-    "Alin lämpötila (degC)": 7.1
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.4,
+    "Maximum air temperature (degC)": 8.6,
+    "Minimum air temperature (degC)": 7.1
   },
   {
     "Vuosi": 2019,
@@ -3844,11 +3844,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.4,
-    "Ylin lämpötila (degC)": 13.1,
-    "Alin lämpötila (degC)": 3.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.4,
+    "Maximum air temperature (degC)": 13.1,
+    "Minimum air temperature (degC)": 3.7
   },
   {
     "Vuosi": 2019,
@@ -3856,11 +3856,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9,
-    "Ylin lämpötila (degC)": 13.7,
-    "Alin lämpötila (degC)": 4.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9,
+    "Maximum air temperature (degC)": 13.7,
+    "Minimum air temperature (degC)": 4.2
   },
   {
     "Vuosi": 2019,
@@ -3868,11 +3868,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 11.8,
-    "Ylin lämpötila (degC)": 14.2,
-    "Alin lämpötila (degC)": 9.6
+    "Rainfall (mm)": 1.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 11.8,
+    "Maximum air temperature (degC)": 14.2,
+    "Minimum air temperature (degC)": 9.6
   },
   {
     "Vuosi": 2019,
@@ -3880,11 +3880,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.5,
-    "Ylin lämpötila (degC)": 14.4,
-    "Alin lämpötila (degC)": 10.9
+    "Rainfall (mm)": 0.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.5,
+    "Maximum air temperature (degC)": 14.4,
+    "Minimum air temperature (degC)": 10.9
   },
   {
     "Vuosi": 2019,
@@ -3892,11 +3892,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 12.7,
-    "Ylin lämpötila (degC)": 14.5,
-    "Alin lämpötila (degC)": 11.7
+    "Rainfall (mm)": 8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 12.7,
+    "Maximum air temperature (degC)": 14.5,
+    "Minimum air temperature (degC)": 11.7
   },
   {
     "Vuosi": 2019,
@@ -3904,11 +3904,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.2,
-    "Ylin lämpötila (degC)": 12.9,
-    "Alin lämpötila (degC)": 5.2
+    "Rainfall (mm)": 2.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.2,
+    "Maximum air temperature (degC)": 12.9,
+    "Minimum air temperature (degC)": 5.2
   },
   {
     "Vuosi": 2019,
@@ -3916,11 +3916,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.9,
-    "Ylin lämpötila (degC)": 9.9,
-    "Alin lämpötila (degC)": 4.1
+    "Rainfall (mm)": 0.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.9,
+    "Maximum air temperature (degC)": 9.9,
+    "Minimum air temperature (degC)": 4.1
   },
   {
     "Vuosi": 2019,
@@ -3928,11 +3928,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.5,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.5,
-    "Ylin lämpötila (degC)": 6.6,
-    "Alin lämpötila (degC)": 3.4
+    "Rainfall (mm)": 2.5,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.5,
+    "Maximum air temperature (degC)": 6.6,
+    "Minimum air temperature (degC)": 3.4
   },
   {
     "Vuosi": 2019,
@@ -3940,11 +3940,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.4,
-    "Ylin lämpötila (degC)": 5.3,
-    "Alin lämpötila (degC)": 1.5
+    "Rainfall (mm)": 0.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.4,
+    "Maximum air temperature (degC)": 5.3,
+    "Minimum air temperature (degC)": 1.5
   },
   {
     "Vuosi": 2019,
@@ -3952,11 +3952,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 2.5,
-    "Ylin lämpötila (degC)": 5.8,
-    "Alin lämpötila (degC)": -0.2
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 2.5,
+    "Maximum air temperature (degC)": 5.8,
+    "Minimum air temperature (degC)": -0.2
   },
   {
     "Vuosi": 2019,
@@ -3964,11 +3964,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4,
-    "Ylin lämpötila (degC)": 6.9,
-    "Alin lämpötila (degC)": 0.3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4,
+    "Maximum air temperature (degC)": 6.9,
+    "Minimum air temperature (degC)": 0.3
   },
   {
     "Vuosi": 2019,
@@ -3976,11 +3976,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.5,
-    "Ylin lämpötila (degC)": 7.9,
-    "Alin lämpötila (degC)": 2.7
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.5,
+    "Maximum air temperature (degC)": 7.9,
+    "Minimum air temperature (degC)": 2.7
   },
   {
     "Vuosi": 2019,
@@ -3988,11 +3988,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5,
-    "Ylin lämpötila (degC)": 7.2,
-    "Alin lämpötila (degC)": 2.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5,
+    "Maximum air temperature (degC)": 7.2,
+    "Minimum air temperature (degC)": 2.4
   },
   {
     "Vuosi": 2019,
@@ -4000,11 +4000,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.8,
-    "Ylin lämpötila (degC)": 7.6,
-    "Alin lämpötila (degC)": 1.9
+    "Rainfall (mm)": 1.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.8,
+    "Maximum air temperature (degC)": 7.6,
+    "Minimum air temperature (degC)": 1.9
   },
   {
     "Vuosi": 2019,
@@ -4012,11 +4012,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.1,
-    "Ylin lämpötila (degC)": 10.2,
-    "Alin lämpötila (degC)": 4.8
+    "Rainfall (mm)": 2.4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.1,
+    "Maximum air temperature (degC)": 10.2,
+    "Minimum air temperature (degC)": 4.8
   },
   {
     "Vuosi": 2019,
@@ -4024,11 +4024,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 33.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 10.4,
-    "Ylin lämpötila (degC)": 12.3,
-    "Alin lämpötila (degC)": 5.7
+    "Rainfall (mm)": 33.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 10.4,
+    "Maximum air temperature (degC)": 12.3,
+    "Minimum air temperature (degC)": 5.7
   },
   {
     "Vuosi": 2019,
@@ -4036,11 +4036,11 @@ am4core.ready(function () {
     "Pv": 12,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.8,
-    "Ylin lämpötila (degC)": 11.5,
-    "Alin lämpötila (degC)": 8.2
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.8,
+    "Maximum air temperature (degC)": 11.5,
+    "Minimum air temperature (degC)": 8.2
   },
   {
     "Vuosi": 2019,
@@ -4048,11 +4048,11 @@ am4core.ready(function () {
     "Pv": 13,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1.4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8.9,
-    "Ylin lämpötila (degC)": 12.2,
-    "Alin lämpötila (degC)": 6.4
+    "Rainfall (mm)": 1.4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8.9,
+    "Maximum air temperature (degC)": 12.2,
+    "Minimum air temperature (degC)": 6.4
   },
   {
     "Vuosi": 2019,
@@ -4060,11 +4060,11 @@ am4core.ready(function () {
     "Pv": 14,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 9.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5,
-    "Ylin lämpötila (degC)": 8.5,
-    "Alin lämpötila (degC)": 2.4
+    "Rainfall (mm)": 9.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5,
+    "Maximum air temperature (degC)": 8.5,
+    "Minimum air temperature (degC)": 2.4
   },
   {
     "Vuosi": 2019,
@@ -4072,11 +4072,11 @@ am4core.ready(function () {
     "Pv": 15,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 4.4,
-    "Ylin lämpötila (degC)": 7.8,
-    "Alin lämpötila (degC)": -1.1
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 4.4,
+    "Maximum air temperature (degC)": 7.8,
+    "Minimum air temperature (degC)": -1.1
   },
   {
     "Vuosi": 2019,
@@ -4084,11 +4084,11 @@ am4core.ready(function () {
     "Pv": 16,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.8,
-    "Ylin lämpötila (degC)": 8.3,
-    "Alin lämpötila (degC)": 5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.8,
+    "Maximum air temperature (degC)": 8.3,
+    "Minimum air temperature (degC)": 5
   },
   {
     "Vuosi": 2019,
@@ -4096,11 +4096,11 @@ am4core.ready(function () {
     "Pv": 17,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3.6,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5.1,
-    "Ylin lämpötila (degC)": 5.6,
-    "Alin lämpötila (degC)": 4.6
+    "Rainfall (mm)": 3.6,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5.1,
+    "Maximum air temperature (degC)": 5.6,
+    "Minimum air temperature (degC)": 4.6
   },
   {
     "Vuosi": 2019,
@@ -4108,11 +4108,11 @@ am4core.ready(function () {
     "Pv": 18,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 8,
-    "Ylin lämpötila (degC)": 10.3,
-    "Alin lämpötila (degC)": 4.8
+    "Rainfall (mm)": 3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 8,
+    "Maximum air temperature (degC)": 10.3,
+    "Minimum air temperature (degC)": 4.8
   },
   {
     "Vuosi": 2019,
@@ -4120,11 +4120,11 @@ am4core.ready(function () {
     "Pv": 19,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 2.9,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 11.5,
-    "Ylin lämpötila (degC)": 12.4,
-    "Alin lämpötila (degC)": 10.3
+    "Rainfall (mm)": 2.9,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 11.5,
+    "Maximum air temperature (degC)": 12.4,
+    "Minimum air temperature (degC)": 10.3
   },
   {
     "Vuosi": 2019,
@@ -4132,11 +4132,11 @@ am4core.ready(function () {
     "Pv": 20,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 13.3,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.9,
-    "Ylin lämpötila (degC)": 11.3,
-    "Alin lämpötila (degC)": 7.6
+    "Rainfall (mm)": 13.3,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.9,
+    "Maximum air temperature (degC)": 11.3,
+    "Minimum air temperature (degC)": 7.6
   },
   {
     "Vuosi": 2019,
@@ -4144,11 +4144,11 @@ am4core.ready(function () {
     "Pv": 21,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.7,
-    "Ylin lämpötila (degC)": 10.7,
-    "Alin lämpötila (degC)": 4.4
+    "Rainfall (mm)": 0.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.7,
+    "Maximum air temperature (degC)": 10.7,
+    "Minimum air temperature (degC)": 4.4
   },
   {
     "Vuosi": 2019,
@@ -4156,11 +4156,11 @@ am4core.ready(function () {
     "Pv": 22,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 9.6,
-    "Ylin lämpötila (degC)": 11.4,
-    "Alin lämpötila (degC)": 2.8
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 9.6,
+    "Maximum air temperature (degC)": 11.4,
+    "Minimum air temperature (degC)": 2.8
   },
   {
     "Vuosi": 2019,
@@ -4168,11 +4168,11 @@ am4core.ready(function () {
     "Pv": 23,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 10.1,
-    "Ylin lämpötila (degC)": 11.9,
-    "Alin lämpötila (degC)": 8.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 10.1,
+    "Maximum air temperature (degC)": 11.9,
+    "Minimum air temperature (degC)": 8.1
   },
   {
     "Vuosi": 2019,
@@ -4180,11 +4180,11 @@ am4core.ready(function () {
     "Pv": 24,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 11.1,
-    "Ylin lämpötila (degC)": 12.1,
-    "Alin lämpötila (degC)": 10.5
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 11.1,
+    "Maximum air temperature (degC)": 12.1,
+    "Minimum air temperature (degC)": 10.5
   },
   {
     "Vuosi": 2019,
@@ -4192,11 +4192,11 @@ am4core.ready(function () {
     "Pv": 25,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.6,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 10.7,
-    "Ylin lämpötila (degC)": 12.1,
-    "Alin lämpötila (degC)": 9.7
+    "Rainfall (mm)": 0.6,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 10.7,
+    "Maximum air temperature (degC)": 12.1,
+    "Minimum air temperature (degC)": 9.7
   },
   {
     "Vuosi": 2019,
@@ -4204,11 +4204,11 @@ am4core.ready(function () {
     "Pv": 26,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 13.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.5,
-    "Ylin lämpötila (degC)": 11.6,
-    "Alin lämpötila (degC)": 5.8
+    "Rainfall (mm)": 13.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.5,
+    "Maximum air temperature (degC)": 11.6,
+    "Minimum air temperature (degC)": 5.8
   },
   {
     "Vuosi": 2019,
@@ -4216,11 +4216,11 @@ am4core.ready(function () {
     "Pv": 27,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 9.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 3.2,
-    "Ylin lämpötila (degC)": 5.7,
-    "Alin lämpötila (degC)": 1.1
+    "Rainfall (mm)": 9.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 3.2,
+    "Maximum air temperature (degC)": 5.7,
+    "Minimum air temperature (degC)": 1.1
   },
   {
     "Vuosi": 2019,
@@ -4228,11 +4228,11 @@ am4core.ready(function () {
     "Pv": 28,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.9,
-    "Ylin lämpötila (degC)": 2.8,
-    "Alin lämpötila (degC)": 0.1
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.9,
+    "Maximum air temperature (degC)": 2.8,
+    "Minimum air temperature (degC)": 0.1
   },
   {
     "Vuosi": 2019,
@@ -4240,11 +4240,11 @@ am4core.ready(function () {
     "Pv": 29,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -1,
-    "Ylin lämpötila (degC)": 1.4,
-    "Alin lämpötila (degC)": -3
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -1,
+    "Maximum air temperature (degC)": 1.4,
+    "Minimum air temperature (degC)": -3
   },
   {
     "Vuosi": 2019,
@@ -4252,11 +4252,11 @@ am4core.ready(function () {
     "Pv": 30,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -0.4,
-    "Ylin lämpötila (degC)": 1.6,
-    "Alin lämpötila (degC)": -3.4
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -0.4,
+    "Maximum air temperature (degC)": 1.6,
+    "Minimum air temperature (degC)": -3.4
   },
   {
     "Vuosi": 2019,
@@ -4264,11 +4264,11 @@ am4core.ready(function () {
     "Pv": 31,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": "",
-    "Ilman lämpötila (degC)": 4.7,
-    "Ylin lämpötila (degC)": 5.9,
-    "Alin lämpötila (degC)": 1.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": "",
+    "Air temperature (degC)": 4.7,
+    "Maximum air temperature (degC)": 5.9,
+    "Minimum air temperature (degC)": 1.4
   },
   {
     "Vuosi": 2019,
@@ -4276,11 +4276,11 @@ am4core.ready(function () {
     "Pv": 1,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 1.4,
-    "Ylin lämpötila (degC)": 4.8,
-    "Alin lämpötila (degC)": -0.4
+    "Rainfall (mm)": 0.1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 1.4,
+    "Maximum air temperature (degC)": 4.8,
+    "Minimum air temperature (degC)": -0.4
   },
   {
     "Vuosi": 2019,
@@ -4288,11 +4288,11 @@ am4core.ready(function () {
     "Pv": 2,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 4.2,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 5,
-    "Ylin lämpötila (degC)": 6.5,
-    "Alin lämpötila (degC)": -1.1
+    "Rainfall (mm)": 4.2,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 5,
+    "Maximum air temperature (degC)": 6.5,
+    "Minimum air temperature (degC)": -1.1
   },
   {
     "Vuosi": 2019,
@@ -4300,11 +4300,11 @@ am4core.ready(function () {
     "Pv": 3,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 3.3,
-    "Ylin lämpötila (degC)": 5.3,
-    "Alin lämpötila (degC)": 1.1
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 3.3,
+    "Maximum air temperature (degC)": 5.3,
+    "Minimum air temperature (degC)": 1.1
   },
   {
     "Vuosi": 2019,
@@ -4312,11 +4312,11 @@ am4core.ready(function () {
     "Pv": 4,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -0.5,
-    "Ylin lämpötila (degC)": 2.6,
-    "Alin lämpötila (degC)": -1.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -0.5,
+    "Maximum air temperature (degC)": 2.6,
+    "Minimum air temperature (degC)": -1.4
   },
   {
     "Vuosi": 2019,
@@ -4324,11 +4324,11 @@ am4core.ready(function () {
     "Pv": 5,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -1.2,
-    "Ylin lämpötila (degC)": 0.6,
-    "Alin lämpötila (degC)": -2.4
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -1.2,
+    "Maximum air temperature (degC)": 0.6,
+    "Minimum air temperature (degC)": -2.4
   },
   {
     "Vuosi": 2019,
@@ -4336,11 +4336,11 @@ am4core.ready(function () {
     "Pv": 6,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.4,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -2.5,
-    "Ylin lämpötila (degC)": -0.6,
-    "Alin lämpötila (degC)": -3.7
+    "Rainfall (mm)": 0.4,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -2.5,
+    "Maximum air temperature (degC)": -0.6,
+    "Minimum air temperature (degC)": -3.7
   },
   {
     "Vuosi": 2019,
@@ -4348,11 +4348,11 @@ am4core.ready(function () {
     "Pv": 7,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 0.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": -1.5,
-    "Ylin lämpötila (degC)": 1.3,
-    "Alin lämpötila (degC)": -3.7
+    "Rainfall (mm)": 0.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": -1.5,
+    "Maximum air temperature (degC)": 1.3,
+    "Minimum air temperature (degC)": -3.7
   },
   {
     "Vuosi": 2019,
@@ -4360,11 +4360,11 @@ am4core.ready(function () {
     "Pv": 8,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 1,
-    "Lumensyvyys (cm)": 2,
-    "Ilman lämpötila (degC)": 1.7,
-    "Ylin lämpötila (degC)": 5.2,
-    "Alin lämpötila (degC)": -0.8
+    "Rainfall (mm)": 1,
+    "Snow depth (cm)": 2,
+    "Air temperature (degC)": 1.7,
+    "Maximum air temperature (degC)": 5.2,
+    "Minimum air temperature (degC)": -0.8
   },
   {
     "Vuosi": 2019,
@@ -4372,11 +4372,11 @@ am4core.ready(function () {
     "Pv": 9,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 4.7,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 6.5,
-    "Ylin lämpötila (degC)": 7.1,
-    "Alin lämpötila (degC)": 5.2
+    "Rainfall (mm)": 4.7,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 6.5,
+    "Maximum air temperature (degC)": 7.1,
+    "Minimum air temperature (degC)": 5.2
   },
   {
     "Vuosi": 2019,
@@ -4384,11 +4384,11 @@ am4core.ready(function () {
     "Pv": 10,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": 7.8,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 7.6,
-    "Ylin lämpötila (degC)": 8.9,
-    "Alin lämpötila (degC)": 5.8
+    "Rainfall (mm)": 7.8,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 7.6,
+    "Maximum air temperature (degC)": 8.9,
+    "Minimum air temperature (degC)": 5.8
   },
   {
     "Vuosi": 2019,
@@ -4396,11 +4396,11 @@ am4core.ready(function () {
     "Pv": 11,
     "Klo": "00:00",
     "Aikavyöhyke": "UTC",
-    "Sademäärä (mm)": -1,
-    "Lumensyvyys (cm)": -1,
-    "Ilman lämpötila (degC)": 0.6,
-    "Ylin lämpötila (degC)": 8,
-    "Alin lämpötila (degC)": -0.7
+    "Rainfall (mm)": -1,
+    "Snow depth (cm)": -1,
+    "Air temperature (degC)": 0.6,
+    "Maximum air temperature (degC)": 8,
+    "Minimum air temperature (degC)": -0.7
   }];
 
   // add date key to chart.data
@@ -4427,19 +4427,19 @@ am4core.ready(function () {
   //dateAxis.renderer.minGridDistance = 30;
 
   var valueAxis1 = chart.yAxes.push(new am4charts.ValueAxis());
-  valueAxis1.title.text = "Sademäärä";
+  valueAxis1.title.text = "Rainfall";
 
   var valueAxis2 = chart.yAxes.push(new am4charts.ValueAxis());
-  valueAxis2.title.text = "Ilman lämpötila";
+  valueAxis2.title.text = "Air temperature";
   valueAxis2.renderer.opposite = true;
   valueAxis2.renderer.grid.template.disabled = true;
 
   // Create series
   var series1 = chart.series.push(new am4charts.ColumnSeries());
-  series1.dataFields.valueY = "Sademäärä (mm)";
+  series1.dataFields.valueY = "Rainfall (mm)";
   series1.dataFields.dateX = "date";
   series1.yAxis = valueAxis1;
-  series1.name = "Sademäärä (mm)";
+  series1.name = "Rainfall (mm)";
   series1.tooltipText = "{name}\n[bold font-size: 20]{valueY} mm[/]";
   series1.fill = chart.colors.getIndex(1);
   series1.strokeWidth = 0;
@@ -4447,10 +4447,10 @@ am4core.ready(function () {
   series1.toBack();
 
   var series2 = chart.series.push(new am4charts.ColumnSeries());
-  series2.dataFields.valueY = "Lumensyvyys (cm)";
+  series2.dataFields.valueY = "Snow depth (cm)";
   series2.dataFields.dateX = "date";
   series2.yAxis = valueAxis1;
-  series2.name = "Lumensyvyys (cm)";
+  series2.name = "Snow depth (cm)";
   series2.tooltipText = "{name}\n[bold font-size: 20]{valueY} cm[/]";
   series2.fill = chart.colors.getIndex(2).lighten(0.5);
   series2.strokeWidth = 0;
@@ -4458,9 +4458,9 @@ am4core.ready(function () {
   series2.columns.template.width = am4core.percent(30);
 
   var series3 = chart.series.push(new am4charts.LineSeries());
-  series3.dataFields.valueY = "Ilman lämpötila (degC)";
+  series3.dataFields.valueY = "Air temperature (degC)";
   series3.dataFields.dateX = "date";
-  series3.name = "Ilman lämpötila (°C)";
+  series3.name = "Air temperature (°C)";
   series3.strokeWidth = 2;
   series3.tensionX = 0.7;
   series3.yAxis = valueAxis2;
@@ -4473,9 +4473,9 @@ am4core.ready(function () {
   bullet3.circle.fill = am4core.color("#fff");
 
   var series4 = chart.series.push(new am4charts.LineSeries());
-  series4.dataFields.valueY = "Ylin lämpötila (degC)";
+  series4.dataFields.valueY = "Maximum air temperature (degC)";
   series4.dataFields.dateX = "date";
-  series4.name = "Ylin lämpötila";
+  series4.name = "Maximum air temperature";
   series4.strokeWidth = 2;
   series4.tensionX = 0.7;
   series4.yAxis = valueAxis2;
@@ -4489,9 +4489,9 @@ am4core.ready(function () {
   bullet4.circle.fill = am4core.color("#fff");
 
   var series5 = chart.series.push(new am4charts.LineSeries());
-  series5.dataFields.valueY = "Alin lämpötila (degC)";
+  series5.dataFields.valueY = "Minimum air temperature (degC)";
   series5.dataFields.dateX = "date";
-  series5.name = "Alin lämpötila";
+  series5.name = "Minimum air temperature";
   series5.strokeWidth = 2;
   series5.tensionX = 0.7;
   series5.yAxis = valueAxis2;
